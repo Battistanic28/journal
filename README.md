@@ -1,4 +1,8 @@
-# Astro Starter Kit: Basics
+There are many websitres, but this one is mine.
+
+Inspiried by:  
+https://esafev.com/  
+https://github.com/esafev/thoughts/blob/main/src/content/notes/art-of-possession.mdx
 
 ```sh
 bun create astro@latest -- --template basics
