@@ -1,6 +1,7 @@
 ---
 layout: ../layouts/BaseLayout.astro
 ---
+[[◄] index](/)
 
 # Top Five Things
 Things I'm currently most curious about

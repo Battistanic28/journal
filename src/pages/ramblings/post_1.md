@@ -9,6 +9,7 @@ image:
 tags: ["astro", "blogging", "learning in public"]
 layout: ../../layouts/BaseLayout.astro
 ---
+[[◄] index](/)
 
 # My First Blog Post
 
