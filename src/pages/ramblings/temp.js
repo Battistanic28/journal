@@ -1,0 +1,1 @@
+import { getLastModified } from "../../../lib/getLastModified";

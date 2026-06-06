@@ -9,11 +9,18 @@ image:
 tags: ["astro", "blogging", "learning in public"]
 layout: ../../layouts/BaseLayout.astro
 ---
+import { getLastModified } from "../../../lib/getLastModified";
+export const lastModified = getLastModified(import.meta.url);
+
 [[◄] index](/)
 
 # My First Blog Post
 
-Published on: 2022-07-01
+<time datetime={lastModified.toISOString()}>
+  <i>
+    Last updated: {lastModified.toLocaleDateString("en-US", { dateStyle: "long" })}
+  </i>
+</time>
 
 Welcome to my _new blog_ about learning Astro! Here, I will share my learning journey as I build a new website.
 

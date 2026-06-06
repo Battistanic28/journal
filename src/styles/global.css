@@ -96,6 +96,7 @@ small {
 a {
   color: var(--theme-link);
   font-weight: 400;
+  text-decoration: none;
 }
 
 a:hover {
