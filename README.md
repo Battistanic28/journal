@@ -16,3 +16,4 @@ TODO:
 - publish to Github Pages
 - wire up to nbattista.com domain
 - add 404 page
+- create script to generate new template post (i.e. `bun run post`)
