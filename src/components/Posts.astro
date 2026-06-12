@@ -1,0 +1,16 @@
+---
+import { getRecentPosts } from "../../lib/getRecentPosts";
+
+const posts = await getRecentPosts();
+---
+
+<section>
+  {
+    posts.map((p) => (
+      <li>
+        <a href="/ramblings/post_20260606">{p.data.title}</a>
+        {` ..... [${p.data.published}]`}
+      </li>
+    ))
+  }
+</section>
