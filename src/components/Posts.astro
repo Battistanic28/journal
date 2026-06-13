@@ -8,7 +8,7 @@ const posts = await getRecentPosts();
   {
     posts.map((p) => (
       <li>
-        <a href="/ramblings/post_20260606">{p.data.title}</a>
+        <a href={`/ramblings/${p.data.slug}`}>{p.data.title}</a>
         {` ..... [${p.data.published}]`}
       </li>
     ))
