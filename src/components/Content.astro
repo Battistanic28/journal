@@ -1,7 +1,5 @@
 ---
 import TopFiveThings from "./TopFiveThings.astro";
-import { getLastModified } from "../../lib/getLastModified";
-const lastModified = getLastModified(import.meta.url);
 ---
 
 <div>
@@ -9,18 +7,9 @@ const lastModified = getLastModified(import.meta.url);
     <li><a href="/brain_food">brain food</a></li>
     <li><a href="/work">work</a></li>
     <li>
-      my top 5 things this week
-      <ul>
-        <TopFiveThings />
-      </ul>
+      <TopFiveThings />
     </li>
   </ul>
-  <!-- TODO: this date reflects changes to content.astro not the config file where edits are made -->
-  <time datetime={lastModified.toISOString()}>
-  <i>
-    Last updated: {lastModified.toLocaleDateString("en-US", { dateStyle: "long" })}
-  </i>
-</time>
 </div>
 
 <style>

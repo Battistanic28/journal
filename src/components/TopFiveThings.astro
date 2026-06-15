@@ -1,15 +1,17 @@
 ---
-import things from '../content/config/topFiveThings.json'
-const topFiveThings = things.slice(0,5)
+import { favoriteThings } from "../content/config/config.json";
+const topFiveThings = favoriteThings.slice(0, 5) || [...favoriteThings];
 ---
 
 <section>
-  {
-    topFiveThings.map((thing) => (
-      <li>
-        <a href={thing.link}>{thing.title}</a>
-        - {thing.description}
-      </li>
-    ))
-  }
+  top five things
+  <ul>
+    {
+      topFiveThings.map((thing) => (
+        <li>
+          <a href={thing.link}>{thing.title}</a>- {thing.description}
+        </li>
+      ))
+    }
+  </ul>
 </section>

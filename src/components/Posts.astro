@@ -5,12 +5,15 @@ const posts = await getRecentPosts();
 ---
 
 <section>
-  {
-    posts.map((p) => (
-      <li>
-        <a href={`/ramblings/${p.data.slug}`}>{p.data.title}</a>
-        {` ..... [${p.data.published}]`}
-      </li>
-    ))
-  }
+  ramblings
+  <ul>
+    {
+      posts.map((p) => (
+        <li>
+          <a href={`/ramblings/${p.data.slug}`}>{p.data.title}</a>
+          {` ..... [${p.data.published}]`}
+        </li>
+      ))
+    }
+  </ul>
 </section>

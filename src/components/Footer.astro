@@ -1,12 +1,38 @@
-<footer>
-  <span>
-    <hr/>
-    [↗]: <a target='_blank' href='mailto:n.battista180@gmail.com'>Email</a> | <a target='_blank' href='https://github.com/Battistanic28'>GitHub</a> | <a target='_blank' href='https://substack.com/@thelandmammal'>Substack</a>
-  <slot />
-</footer>
+---
+import { footerLinks } from "../content/config/config.json";
+---
 
-<style>
-  footer {
-    padding-top: 3em;
-  }
-</style>
+<footer>
+  <hr />
+  <div>
+    [↗]: {
+      footerLinks.map((link, i) => {
+        const notLast = footerLinks[i+1]
+        return (
+          <div class="links">
+            <a target="_blank" href={link.url}>
+              {link.title}
+            </a>
+            {notLast && <p>|</p>}
+          </div>
+        );
+      })
+    }
+  </div>
+
+  <style>
+    div {
+      display: flex;
+      gap: 10px;
+    }
+
+    footer {
+      padding-top: 3em;
+    }
+
+    hr {
+      margin-bottom: 1em;
+    }
+
+  </style>
+</footer>

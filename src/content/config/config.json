@@ -1,0 +1,51 @@
+{
+  "heading": "Nick Battista",
+  "subheading": "I am Nick. There are many websites on the internet, but this one is mine",
+  "intro": "This site is my personal journal. It's a quiet place for me to gather my thoughts and curiosities in one place. If you are not me, but somehow find yourself here, great! Thanks for poking around, and please reach out. You can find my contact info below.",
+  "favoriteThings": [
+    {
+      "title": "placeholder thing",
+      "description": "this is so cool",
+      "link": "/"
+    },
+    {
+      "title": "placeholder thing",
+      "description": "this is so cool",
+      "link": "/"
+    },
+    {
+      "title": "placeholder thing",
+      "description": "this is so cool",
+      "link": "/"
+    },
+    {
+      "title": "placeholder thing",
+      "description": "this is so cool",
+      "link": "/"
+    },
+    {
+      "title": "placeholder thing",
+      "description": "this is so cool",
+      "link": "/"
+    },
+    {
+      "title": "placeholder thing",
+      "description": "this is so cool",
+      "link": "/"
+    }
+  ],
+  "footerLinks": [
+    {
+      "title": "Email",
+      "url": "mailto:n.battista180@gmail.com"
+    },
+    {
+      "title": "Github",
+      "url": "https://github.com/Battistanic28"
+    },
+    {
+      "title": "Substack",
+      "url": "https://substack.com/@thelandmammal"
+    }
+  ]
+}
