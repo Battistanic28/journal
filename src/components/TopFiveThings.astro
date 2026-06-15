@@ -1,0 +1,15 @@
+---
+import things from '../content/config/topFiveThings.json'
+const topFiveThings = things.slice(0,5)
+---
+
+<section>
+  {
+    topFiveThings.map((thing) => (
+      <li>
+        <a href={thing.link}>{thing.title}</a>
+        - {thing.description}
+      </li>
+    ))
+  }
+</section>
