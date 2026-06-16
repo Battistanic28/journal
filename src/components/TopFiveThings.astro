@@ -9,7 +9,7 @@ const topFiveThings = favoriteThings.slice(0, 5) || [...favoriteThings];
     {
       topFiveThings.map((thing) => (
         <li>
-          <a href={thing.link} target="_blank">{thing.title}</a> - {thing.description}
+          <a href={thing.link} target="_blank" title={thing.description}>{thing.title}</a>
         </li>
       ))
     }
