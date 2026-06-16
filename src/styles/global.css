@@ -18,7 +18,7 @@
   --color-gray-medium: #e1e1e0;
   --color-gray-light: #f9f7f4;
   --color-black-light: #1f1f1f;
-  --color-red: pink;
+  --color-pink: pink;
   --color-white: #fff;
   --color-white-light: #cccccc;
 }
@@ -27,7 +27,7 @@
   --theme-bg: var(--color-gray-light);
   --theme-text: var(--color-black-light);
   --theme-sub-text: var(--color-gray);
-  --theme-link: var(--color-red);
+  --theme-link: var(--color-pink);
   --theme-link-hover: var(--color-black-light);
   --theme-code-block: var(--color-gray-medium);
 
@@ -80,7 +80,15 @@ body {
 }
 
 h1 {
-  color: var(--color-red);
+  color: var(--color-pink);
+}
+
+h3 {
+  color: var(--color-pink);
+}
+
+h4 {
+  color: var(--color-pink);
 }
 
 p,
@@ -100,7 +108,7 @@ a {
 }
 
 a:hover {
-  background-color: var(--color-red);
+  background-color: var(--color-pink);
   color: var(--theme-link-hover);
 
   text-decoration: none !important;
