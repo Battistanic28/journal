@@ -1,32 +1,32 @@
 {
   "heading": "Nick Battista",
-  "subheading": "I am Nick. There are many websites on the internet, but this one is mine",
+  "subheading": "I am Nick. There are many websites on the internet, but this one is mine.",
   "intro": "This site is my personal journal. It's a quiet place for me to gather my thoughts and curiosities in one place. If you are not me, but somehow find yourself here, great! Thanks for poking around, and please reach out. You can find my contact info below.",
   "favoriteThings": [
     {
-      "title": "placeholder thing",
-      "description": "this is so cool",
-      "link": "/"
+      "title": "The Biggish Picture",
+      "description": "a great read by Bill McKibben",
+      "link": "https://substack.com/home/post/p-201103527"
     },
     {
-      "title": "placeholder thing",
-      "description": "this is so cool",
-      "link": "/"
+      "title": "Acquired: Enron",
+      "description": "an extremely thorough overview of the Enron scandal",
+      "link": "https://www.acquired.fm/episodes/enron"
     },
     {
-      "title": "placeholder thing",
-      "description": "this is so cool",
-      "link": "/"
+      "title": "Colorado Balcony Solar",
+      "description": "CO becomes 4th state in the US to legalize plug-in solar!",
+      "link": "https://www.billtrack50.com/billdetail/1935246/52930"
     },
     {
-      "title": "placeholder thing",
-      "description": "this is so cool",
-      "link": "/"
+      "title": "The Grid",
+      "description": "a Stepchange deep dive into the history of the US electric grid",
+      "link": "https://www.stepchange.show/grid"
     },
     {
-      "title": "placeholder thing",
-      "description": "this is so cool",
-      "link": "/"
+      "title": "Save the Farm, Save the Future",
+      "description": "great documentary on agrivoltaics",
+      "link": "https://www.youtube.com/watch?v=PmK3v90CzpY"
     },
     {
       "title": "placeholder thing",

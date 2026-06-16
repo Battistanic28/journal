@@ -4,12 +4,12 @@ const topFiveThings = favoriteThings.slice(0, 5) || [...favoriteThings];
 ---
 
 <section>
-  top five things
+  my top five things this week
   <ul>
     {
       topFiveThings.map((thing) => (
         <li>
-          <a href={thing.link}>{thing.title}</a>- {thing.description}
+          <a href={thing.link} target="_blank">{thing.title}</a> - {thing.description}
         </li>
       ))
     }
