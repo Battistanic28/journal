@@ -6,13 +6,12 @@ Fetch title, descriotion and link for most recent article for each newsletter
 If pubdate is greater than 3 days old, do not fetch/display
 */
 export const getFeed = async () => {
-  const urls = feed.substack;
+  const sources = Object.keys(feed);
 
-  const feedData = await Promise.all(
-    urls.map(async (url) => {
+  const feedData = await Promise.all(sources.map((source) => {
+    return Promise.all(feed[source].map(async (url) => {
       const res = await fetch(url);
       const data = await res.text();
-
       const parser = new XMLParser();
       const xmlDoc = parser.parse(data);
 
@@ -22,8 +21,10 @@ export const getFeed = async () => {
       const pubDate = xmlDoc.rss.channel.item[0].pubDate;
 
       return { title, desc, link, pubDate };
-    }),
-  );
+    }));
+  }));
+
+//   const feedData = await Promise.all(urls.map(async (url) => {}));
 
   return feedData;
 };
