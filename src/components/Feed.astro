@@ -1,0 +1,34 @@
+---
+import rawFeed from "../content/config/data.json";
+const sources = Object.keys(rawFeed);
+
+interface ContentItem {
+  title: string;
+  desc: string;
+  link: string;
+  pubDate: string;
+}
+
+interface Feed {
+  [source: string]: ContentItem[];
+}
+
+const feed = rawFeed as Feed;
+---
+
+<section>
+  {
+    sources.map((source) => {
+      return (
+        <details open>
+          <summary>{source}</summary>
+          <ul>
+          {feed[source].map((content: ContentItem) => {
+            return <li><a href={content.link}>{content.title}</a></li>;
+          })}
+          </ul>
+        </details>
+      );
+    })
+  }
+</section>

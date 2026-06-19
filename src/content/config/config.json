@@ -47,5 +47,21 @@
       "title": "Substack",
       "url": "https://substack.com/@thelandmammal"
     }
-  ]
+  ],
+  "feed": {
+    "youtube": [],
+    "substack": [
+      "https://www.groundbrkr.com/feed",
+      "https://eliasrutten.substack.com/feed"
+    ],
+    "hackaday": [
+      "https://hackaday.com/feed/"
+    ],
+    "makezine": [
+      "https://makezine.com/rss"
+    ],
+    "podcasts": [
+      "https://www.volts.wtf/feed"
+    ]
+  }
 }
