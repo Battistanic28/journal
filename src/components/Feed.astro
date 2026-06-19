@@ -19,13 +19,18 @@ const feed = rawFeed as Feed;
 <section>
   {
     sources.map((source) => {
+      if (feed[source].length === 0) return;
       return (
         <details open>
           <summary>{source}</summary>
           <ul>
-          {feed[source].map((content: ContentItem) => {
-            return <li><a href={content.link}>{content.title}</a></li>;
-          })}
+            {feed[source].map((content: ContentItem) => {
+              return (
+                <li>
+                  <a href={content.link} target="_blank">{content.title}</a>
+                </li>
+              );
+            })}
           </ul>
         </details>
       );
