@@ -1,12 +1,14 @@
 {
   "substack": [
     {
+      "channel": "Groundbreaker",
       "title": "Peak Cheap: The AI Boom Isn't 2000, It's 2008",
       "desc": "Anatomy of the GPU-collateralized earnings bubble and the coming credit unwind",
       "link": "https://www.groundbrkr.com/p/peak-cheap-the-ai-boom-isnt-2000",
       "pubDate": "Sun, 07 Jun 2026 21:04:13 GMT"
     },
     {
+      "channel": "Power, Profit & Politics",
       "title": "The Concert of Hormuz",
       "desc": "Iranian Victory Sharpens Imperial Rivalry",
       "link": "https://eliasrutten.substack.com/p/the-concert-of-hormuz",
@@ -15,6 +17,7 @@
   ],
   "hackaday": [
     {
+      "channel": "Hackaday",
       "title": "Running Windows NT On The Nintendo Gamecube",
       "desc": "",
       "link": "https://hackaday.com/2026/06/18/running-windows-nt-on-the-nintendo-gamecube/",
@@ -23,6 +26,7 @@
   ],
   "makezine": [
     {
+      "channel": "Make: DIY Projects and Ideas for Makers",
       "title": "How My Father Helped Me Become a Maker",
       "desc": "",
       "link": "https://makezine.com/article/maker-news/how-my-father-helped-me-become-a-maker/",

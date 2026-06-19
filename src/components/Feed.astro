@@ -3,6 +3,7 @@ import rawFeed from "../content/config/data.json";
 const sources = Object.keys(rawFeed);
 
 interface ContentItem {
+  channel: string;
   title: string;
   desc: string;
   link: string;
@@ -22,12 +23,15 @@ const feed = rawFeed as Feed;
       if (feed[source].length === 0) return;
       return (
         <details open>
-          <summary>{source}</summary>
+          <summary><b>{source}</b></summary>
           <ul>
             {feed[source].map((content: ContentItem) => {
               return (
                 <li>
-                  <a href={content.link} target="_blank">{content.title}</a>
+                  <a href={content.link} target="_blank">
+                    {content.title}
+                  </a>
+                  - <i>[{content.channel}]</i>
                 </li>
               );
             })}
