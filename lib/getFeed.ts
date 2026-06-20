@@ -1,35 +1,75 @@
 import { feed } from "../src/content/config/config.json";
 import { XMLParser } from "fast-xml-parser";
+import fs from "fs";
+import data from "../src/content/config/data.json";
+
+interface ContentItem {
+  channel: string;
+  title: string;
+  desc: string;
+  link: string;
+  pubDate: string;
+}
+
+type FeedData = Record<string, ContentItem[]>;
 
 /*
 Fetch title, descriotion and link for most recent article for each newsletter
 If pubdate is greater than 3 days old, do not fetch/display
 */
-export const getFeed = async () => {
-  const sources = Object.keys(feed);
+export const getFeed = async (): Promise<FeedData> => {
+  const sources = Object.keys(feed) as Array<keyof typeof feed>;
 
-  const feedData = await Promise.all(
-    sources.map((source) => {
-      return Promise.all(
+  const entries = await Promise.all(
+    sources.map(async (source) => {
+      const items = await Promise.all(
         feed[source].map(async (url) => {
           const res = await fetch(url);
           const data = await res.text();
           const parser = new XMLParser();
           const xmlDoc = parser.parse(data);
 
-          const channel = xmlDoc.rss.channel.title;
-          const title = xmlDoc.rss.channel.item[0].title;
-          const desc = xmlDoc.rss.channel.item[0].description;
-          const link = xmlDoc.rss.channel.item[0].link;
-          const pubDate = xmlDoc.rss.channel.item[0].pubDate;
+          const channelData = xmlDoc?.rss?.channel;
+          if (!channelData) return null;
 
-          return { channel, title, desc, link, pubDate };
+          const item = Array.isArray(channelData.item)
+            ? channelData.item[0]
+            : channelData.item;
+
+          if (!item) return null;
+
+          const contentItem: ContentItem = {
+            channel: channelData.title ?? "",
+            title: item.title ?? "",
+            desc: item.description ?? "",
+            link: item.link ?? "",
+            pubDate: item.pubDate ?? "",
+          };
+
+          return contentItem;
         }),
       );
+
+      const validItems = items.filter(
+        (item): item is ContentItem => item !== null,
+      );
+
+      return [source, validItems] as const;
     }),
   );
 
-  //   const feedData = await Promise.all(urls.map(async (url) => {}));
-
-  return feedData;
+  return Object.fromEntries(entries) as FeedData;
 };
+
+const writeFeed = async (data: FeedData) => {
+  const jsonString = JSON.stringify(data, null, 2);
+  try {
+    fs.writeFileSync("src/content/config/data.json", jsonString);
+    console.log("Feed data updated successfully.");
+  } catch (err) {
+    console.error("Error writing file:", err);
+  }
+};
+
+const data = await getFeed();
+await writeFeed(data)

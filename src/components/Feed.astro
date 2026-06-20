@@ -28,10 +28,10 @@ const feed = rawFeed as Feed;
             {feed[source].map((content: ContentItem) => {
               return (
                 <li>
+                  <i>{content.channel}:</i>
                   <a href={content.link} target="_blank">
                     {content.title}
                   </a>
-                  - <i>[{content.channel}]</i>
                 </li>
               );
             })}

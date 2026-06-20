@@ -49,15 +49,13 @@
     }
   ],
   "feed": {
-    "youtube": [],
     "substack": [
       "https://www.groundbrkr.com/feed",
-      "https://eliasrutten.substack.com/feed"
+      "https://eliasrutten.substack.com/feed",
+      "https://billmckibben.substack.com/feed"
     ],
-    "hackaday": [
-      "https://hackaday.com/feed/"
-    ],
-    "makezine": [
+    "web": [
+      "https://hackaday.com/feed/",
       "https://makezine.com/rss"
     ],
     "podcasts": [

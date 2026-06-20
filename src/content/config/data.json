@@ -13,25 +13,38 @@
       "desc": "Iranian Victory Sharpens Imperial Rivalry",
       "link": "https://eliasrutten.substack.com/p/the-concert-of-hormuz",
       "pubDate": "Wed, 17 Jun 2026 14:53:51 GMT"
+    },
+    {
+      "channel": "The Crucial Years",
+      "title": "Now where?",
+      "desc": "The world has turned a corner, offering a new and improved view",
+      "link": "https://billmckibben.substack.com/p/now-where",
+      "pubDate": "Fri, 19 Jun 2026 15:43:08 GMT"
     }
   ],
-  "hackaday": [
+  "web": [
     {
       "channel": "Hackaday",
-      "title": "Running Windows NT On The Nintendo Gamecube",
-      "desc": "",
-      "link": "https://hackaday.com/2026/06/18/running-windows-nt-on-the-nintendo-gamecube/",
-      "pubDate": "Fri, 19 Jun 2026 05:00:34 +0000"
-    }
-  ],
-  "makezine": [
+      "title": "Seeing the World in Radio Waves with the QuadRF",
+      "desc": "<div><img width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/06/quadrf_drone_demo.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"A drone is shown flying above some trees and a building. A pink cloud of dots appears above the drone, and a purple cloud below the drone. Grey crosshairs are to the right of the drone.\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2026/06/quadrf_drone_demo.png 1607w, https://hackaday.com/wp-content/uploads/2026/06/quadrf_drone_demo.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2026/06/quadrf_drone_demo.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2026/06/quadrf_drone_demo.png?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2026/06/quadrf_drone_demo.png?resize=1536,864 1536w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"1118464\" data-permalink=\"https://hackaday.com/2026/06/20/seeing-the-world-in-radio-waves-with-the-quadrf/quadrf_drone_demo/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2026/06/quadrf_drone_demo.png\" data-orig-size=\"1607,904\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;,&quot;alt&quot;:&quot;&quot;}\" data-image-title=\"quadrf_drone_demo\" data-image-description=\"\" data-image-caption=\"\" data-large-file=\"https://hackaday.com/wp-content/uploads/2026/06/quadrf_drone_demo.png?w=800\" /></div>Although the basic principle of radio direction finding is easy to understand (measure the phase difference between different antennas, then calculate the angle of arrival from this difference), the radio <a href=\"https://hackaday.com/2026/06/20/seeing-the-world-in-radio-waves-with-the-quadrf/\" class=\"read-more\">&#8230;read more</a>",
+      "link": "https://hackaday.com/2026/06/20/seeing-the-world-in-radio-waves-with-the-quadrf/",
+      "pubDate": "Sat, 20 Jun 2026 20:00:00 +0000"
+    },
     {
       "channel": "Make: DIY Projects and Ideas for Makers",
-      "title": "How My Father Helped Me Become a Maker",
-      "desc": "",
-      "link": "https://makezine.com/article/maker-news/how-my-father-helped-me-become-a-maker/",
+      "title": "Top Ten Projects My Dad Would Like",
+      "desc": "<div><img width=\"620\" height=\"465\" src=\"https://makezine.com/wp-content/uploads/2015/10/fire-tornado-gif.gif\" class=\"attachment-medium size-medium wp-post-image\" alt=\"Top Ten Projects My Dad Would Like\" style=\"margin-bottom: 15px;\" decoding=\"async\" /></div>\n<p>This Father's Day I rounded up 9 projects my dad would like, plus one more.</p>\n<p>The post <a href=\"https://makezine.com/article/home/top-ten-projects-my-dad-would-like/\">Top Ten Projects My Dad Would Like</a> appeared first on <a href=\"https://makezine.com\">Make: DIY Projects and Ideas for Makers</a>.</p>\n",
+      "link": "https://makezine.com/article/home/top-ten-projects-my-dad-would-like/",
       "pubDate": ""
     }
   ],
-  "youtube": []
+  "podcasts": [
+    {
+      "channel": "Volts",
+      "title": "America's flagship automaker enters the home energy market",
+      "desc": "Aseem Kapur joins me to explain how GM plans to turn its massive EV fleet into a distributed virtual power plant.",
+      "link": "https://www.volts.wtf/p/americas-flagship-automaker-enters",
+      "pubDate": "Fri, 19 Jun 2026 16:03:42 GMT"
+    }
+  ]
 }
