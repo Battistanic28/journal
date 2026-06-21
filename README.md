@@ -11,9 +11,6 @@ https://esafev.com/
 | `bun preview`         | Preview your build locally, before deploying     |
 
 TODO: 
-- move repeated components in .mdx files to a reusable Astro layout
-- dynamically render ramblings in order of publication (show only 5 most recent)
-- publish to Github Pages
-- wire up to nbattista.com domain
-- add 404 page
 - create script to generate new template post (i.e. `bun run post`)
+- create reusable component for Post [title ..... date]
+- ensure rss feeds always pull latest content

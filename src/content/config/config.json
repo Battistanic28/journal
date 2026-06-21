@@ -57,7 +57,7 @@
       "https://electroneconomics.substack.com/feed",
       "https://newsletter.goodtechthings.com/feed"
     ],
-    "web": [
+    "slow-web": [
       "https://hackaday.com/feed/",
       "https://makezine.com/rss",
       "https://solar.lowtechmagazine.com/posts/index.xml",
