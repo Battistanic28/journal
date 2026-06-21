@@ -22,7 +22,7 @@ const feed = rawFeed.data as Feed;
     sources.map((source) => {
       if (feed[source].length === 0) return;
       return (
-        <details open>
+        <details>
           <summary><b>{source}</b></summary>
           <ul>
             {feed[source].map((content: ContentItem) => {
