@@ -1,7 +1,6 @@
 import { feed } from "../src/content/config/config.json";
 import { XMLParser } from "fast-xml-parser";
 import fs from "fs";
-import data from "../src/content/config/data.json";
 
 interface ContentItem {
   channel: string;
@@ -11,7 +10,10 @@ interface ContentItem {
   pubDate: string;
 }
 
-type FeedData = Record<string, ContentItem[]>;
+type FeedData = {
+  data: Record<string, ContentItem[]>;
+  lastUpdated: string;
+};
 
 /*
 Fetch title, descriotion and link for most recent article for each newsletter
@@ -58,7 +60,10 @@ export const getFeed = async (): Promise<FeedData> => {
     }),
   );
 
-  return Object.fromEntries(entries) as FeedData;
+  const data = Object.fromEntries(entries);
+  const date = new Date();
+
+  return { data: data, lastUpdated: date.toLocaleDateString() } as FeedData;
 };
 
 const writeFeed = async (data: FeedData) => {
@@ -72,4 +77,4 @@ const writeFeed = async (data: FeedData) => {
 };
 
 const data = await getFeed();
-await writeFeed(data)
+await writeFeed(data);

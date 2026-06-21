@@ -1,6 +1,6 @@
 ---
 import rawFeed from "../content/config/data.json";
-const sources = Object.keys(rawFeed);
+const sources = Object.keys(rawFeed.data);
 
 interface ContentItem {
   channel: string;
@@ -14,7 +14,7 @@ interface Feed {
   [source: string]: ContentItem[];
 }
 
-const feed = rawFeed as Feed;
+const feed = rawFeed.data as Feed;
 ---
 
 <section>
@@ -40,4 +40,6 @@ const feed = rawFeed as Feed;
       );
     })
   }
+  <br/>
+  <i>last updated: {rawFeed.lastUpdated}</i>
 </section>

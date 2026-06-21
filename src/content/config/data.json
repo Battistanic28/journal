@@ -1,50 +1,81 @@
 {
-  "substack": [
-    {
-      "channel": "Groundbreaker",
-      "title": "Peak Cheap: The AI Boom Isn't 2000, It's 2008",
-      "desc": "Anatomy of the GPU-collateralized earnings bubble and the coming credit unwind",
-      "link": "https://www.groundbrkr.com/p/peak-cheap-the-ai-boom-isnt-2000",
-      "pubDate": "Sun, 07 Jun 2026 21:04:13 GMT"
-    },
-    {
-      "channel": "Power, Profit & Politics",
-      "title": "The Concert of Hormuz",
-      "desc": "Iranian Victory Sharpens Imperial Rivalry",
-      "link": "https://eliasrutten.substack.com/p/the-concert-of-hormuz",
-      "pubDate": "Wed, 17 Jun 2026 14:53:51 GMT"
-    },
-    {
-      "channel": "The Crucial Years",
-      "title": "Now where?",
-      "desc": "The world has turned a corner, offering a new and improved view",
-      "link": "https://billmckibben.substack.com/p/now-where",
-      "pubDate": "Fri, 19 Jun 2026 15:43:08 GMT"
-    }
-  ],
-  "web": [
-    {
-      "channel": "Hackaday",
-      "title": "Seeing the World in Radio Waves with the QuadRF",
-      "desc": "<div><img width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/06/quadrf_drone_demo.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"A drone is shown flying above some trees and a building. A pink cloud of dots appears above the drone, and a purple cloud below the drone. Grey crosshairs are to the right of the drone.\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2026/06/quadrf_drone_demo.png 1607w, https://hackaday.com/wp-content/uploads/2026/06/quadrf_drone_demo.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2026/06/quadrf_drone_demo.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2026/06/quadrf_drone_demo.png?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2026/06/quadrf_drone_demo.png?resize=1536,864 1536w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"1118464\" data-permalink=\"https://hackaday.com/2026/06/20/seeing-the-world-in-radio-waves-with-the-quadrf/quadrf_drone_demo/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2026/06/quadrf_drone_demo.png\" data-orig-size=\"1607,904\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;,&quot;alt&quot;:&quot;&quot;}\" data-image-title=\"quadrf_drone_demo\" data-image-description=\"\" data-image-caption=\"\" data-large-file=\"https://hackaday.com/wp-content/uploads/2026/06/quadrf_drone_demo.png?w=800\" /></div>Although the basic principle of radio direction finding is easy to understand (measure the phase difference between different antennas, then calculate the angle of arrival from this difference), the radio <a href=\"https://hackaday.com/2026/06/20/seeing-the-world-in-radio-waves-with-the-quadrf/\" class=\"read-more\">&#8230;read more</a>",
-      "link": "https://hackaday.com/2026/06/20/seeing-the-world-in-radio-waves-with-the-quadrf/",
-      "pubDate": "Sat, 20 Jun 2026 20:00:00 +0000"
-    },
-    {
-      "channel": "Make: DIY Projects and Ideas for Makers",
-      "title": "Top Ten Projects My Dad Would Like",
-      "desc": "<div><img width=\"620\" height=\"465\" src=\"https://makezine.com/wp-content/uploads/2015/10/fire-tornado-gif.gif\" class=\"attachment-medium size-medium wp-post-image\" alt=\"Top Ten Projects My Dad Would Like\" style=\"margin-bottom: 15px;\" decoding=\"async\" /></div>\n<p>This Father's Day I rounded up 9 projects my dad would like, plus one more.</p>\n<p>The post <a href=\"https://makezine.com/article/home/top-ten-projects-my-dad-would-like/\">Top Ten Projects My Dad Would Like</a> appeared first on <a href=\"https://makezine.com\">Make: DIY Projects and Ideas for Makers</a>.</p>\n",
-      "link": "https://makezine.com/article/home/top-ten-projects-my-dad-would-like/",
-      "pubDate": ""
-    }
-  ],
-  "podcasts": [
-    {
-      "channel": "Volts",
-      "title": "America's flagship automaker enters the home energy market",
-      "desc": "Aseem Kapur joins me to explain how GM plans to turn its massive EV fleet into a distributed virtual power plant.",
-      "link": "https://www.volts.wtf/p/americas-flagship-automaker-enters",
-      "pubDate": "Fri, 19 Jun 2026 16:03:42 GMT"
-    }
-  ]
+  "data": {
+    "substack": [
+      {
+        "channel": "Groundbreaker",
+        "title": "Peak Cheap: The AI Boom Isn't 2000, It's 2008",
+        "desc": "Anatomy of the GPU-collateralized earnings bubble and the coming credit unwind",
+        "link": "https://www.groundbrkr.com/p/peak-cheap-the-ai-boom-isnt-2000",
+        "pubDate": "Sun, 07 Jun 2026 21:04:13 GMT"
+      },
+      {
+        "channel": "Power, Profit & Politics",
+        "title": "The Concert of Hormuz",
+        "desc": "Iranian Victory Sharpens Imperial Rivalry",
+        "link": "https://eliasrutten.substack.com/p/the-concert-of-hormuz",
+        "pubDate": "Wed, 17 Jun 2026 14:53:51 GMT"
+      },
+      {
+        "channel": "The Crucial Years",
+        "title": "Now where?",
+        "desc": "The world has turned a corner, offering a new and improved view",
+        "link": "https://billmckibben.substack.com/p/now-where",
+        "pubDate": "Fri, 19 Jun 2026 15:43:08 GMT"
+      },
+      {
+        "channel": "Bright Spots",
+        "title": "Is electrification happening fast enough?",
+        "desc": "Electrification is advancing rapidly by historical standards but remains far too slow for net zero objectives.",
+        "link": "https://janrosenow.substack.com/p/is-electrification-happening-fast",
+        "pubDate": "Sun, 14 Jun 2026 08:06:12 GMT"
+      },
+      {
+        "channel": "Electron Economics",
+        "title": "Helix Digital Infrastructure is a new company for hyperscalers, and has a vendor stack that calls itself a platform",
+        "desc": "The founding documents contemplate priority and first-look rights that could allow its investors to become suppliers to the very portfolio they&#8217;re funding. That&#8217;s not a side clause &#8212; it&#8217;s the product",
+        "link": "https://electroneconomics.substack.com/p/helix-digital-infrastructure-is-a",
+        "pubDate": "Sat, 20 Jun 2026 12:58:22 GMT"
+      },
+      {
+        "channel": "Good Tech Things",
+        "title": "Paradox, Inc",
+        "desc": "exciting book news!",
+        "link": "https://newsletter.goodtechthings.com/p/paradox-inc",
+        "pubDate": "Wed, 22 Apr 2026 15:38:15 GMT"
+      }
+    ],
+    "web": [
+      {
+        "channel": "Hackaday",
+        "title": "Defeat Blood-Sucking Mosquitoes by Becoming the Bug Zapper",
+        "desc": "<div><img width=\"800\" height=\"464\" src=\"https://hackaday.com/wp-content/uploads/2026/06/bug_zapper_suit_stun_gun_testing_dani_cruster_diwhy_youtube.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2026/06/bug_zapper_suit_stun_gun_testing_dani_cruster_diwhy_youtube.jpg 1253w, https://hackaday.com/wp-content/uploads/2026/06/bug_zapper_suit_stun_gun_testing_dani_cruster_diwhy_youtube.jpg?resize=250,145 250w, https://hackaday.com/wp-content/uploads/2026/06/bug_zapper_suit_stun_gun_testing_dani_cruster_diwhy_youtube.jpg?resize=400,232 400w, https://hackaday.com/wp-content/uploads/2026/06/bug_zapper_suit_stun_gun_testing_dani_cruster_diwhy_youtube.jpg?resize=800,464 800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"1118046\" data-permalink=\"https://hackaday.com/2026/06/20/defeat-blood-sucking-mosquitoes-by-becoming-the-bug-zapper/bug_zapper_suit_stun_gun_testing_dani_cruster_diwhy_youtube/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2026/06/bug_zapper_suit_stun_gun_testing_dani_cruster_diwhy_youtube.jpg\" data-orig-size=\"1253,726\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;,&quot;alt&quot;:&quot;&quot;}\" data-image-title=\"bug_zapper_suit_stun_gun_testing_dani_cruster_diwhy_youtube\" data-image-description=\"\" data-image-caption=\"\" data-large-file=\"https://hackaday.com/wp-content/uploads/2026/06/bug_zapper_suit_stun_gun_testing_dani_cruster_diwhy_youtube.jpg?w=800\" /></div>Few things are more satisfying during a Summer night than hearing the crackle and pop of another mosquito hurling itself against a bug zapper and knowing that it won&#8217;t be <a href=\"https://hackaday.com/2026/06/20/defeat-blood-sucking-mosquitoes-by-becoming-the-bug-zapper/\" class=\"read-more\">&#8230;read more</a>",
+        "link": "https://hackaday.com/2026/06/20/defeat-blood-sucking-mosquitoes-by-becoming-the-bug-zapper/",
+        "pubDate": "Sat, 20 Jun 2026 23:00:00 +0000"
+      },
+      {
+        "channel": "Make: DIY Projects and Ideas for Makers",
+        "title": "Top Ten Projects My Dad Would Like",
+        "desc": "<div><img width=\"620\" height=\"465\" src=\"https://makezine.com/wp-content/uploads/2015/10/fire-tornado-gif.gif\" class=\"attachment-medium size-medium wp-post-image\" alt=\"Top Ten Projects My Dad Would Like\" style=\"margin-bottom: 15px;\" decoding=\"async\" /></div>\n<p>This Father's Day I rounded up 9 projects my dad would like, plus one more.</p>\n<p>The post <a href=\"https://makezine.com/article/home/top-ten-projects-my-dad-would-like/\">Top Ten Projects My Dad Would Like</a> appeared first on <a href=\"https://makezine.com\">Make: DIY Projects and Ideas for Makers</a>.</p>\n",
+        "link": "https://makezine.com/article/home/top-ten-projects-my-dad-would-like/",
+        "pubDate": ""
+      }
+    ],
+    "podcasts": [
+      {
+        "channel": "Volts",
+        "title": "America's flagship automaker enters the home energy market",
+        "desc": "Aseem Kapur joins me to explain how GM plans to turn its massive EV fleet into a distributed virtual power plant.",
+        "link": "https://www.volts.wtf/p/americas-flagship-automaker-enters",
+        "pubDate": "Fri, 19 Jun 2026 16:03:42 GMT"
+      },
+      {
+        "channel": "Stratechery",
+        "title": "Anthropic’s Safety Superpower",
+        "desc": "Anthropic&#39;s belief in its own commitment to safety gives the company license to aggressively favor its business and even challenge the U.S. government.",
+        "link": "https://stratechery.com/2026/anthropics-safety-superpower/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L2FudGhyb3BpY3Mtc2FmZXR5LXN1cGVycG93ZXIvIl19LCJleHAiOjE3ODQ1OTU1OTEsImlhdCI6MTc4MjAwMzU5MSwiaXNzIjoiaHR0cHM6Ly9hcHAucGFzc3BvcnQub25saW5lL29hdXRoIiwic2NvcGUiOiJmZWVkOnJlYWQgYXJ0aWNsZTpyZWFkIGFzc2V0OnJlYWQgY2F0ZWdvcnk6cmVhZCBlbnRpdGxlbWVudHMgcG9kY2FzdCByc3MiLCJzdWIiOiIwMTllZTdiMC01MTVjLTc0NGItYTI5MC0zNTMwODk3ZjlhMWUiLCJ1c2UiOiJhY2Nlc3MifQ.E4R7g7TWrKk5zMig-U_5Lltj7FYfaZOdnR3I5msLDBTOIPYCwyjQXf2z6AzIPLMZAfdzIqwTMNeJf4HbJCK_5j6VA2Ccig6nhE2klJquILTDBc-8VOMd_qELv9_Lfjzy6OW_3fG_Ob2cZBNOsipIf71smPw8Rin1MBhwwGxIY2WUa4bpMEV3R_Ys1VLlQQjn1del5EDZyLG_uze1lj59q_toieYUG5yytM5BZhnxk07GMjVYm1aQHEy_Ph_o1_kETzxcl6KmREppCk4fqPLkaznzvCbSBwwEu7gsnki4kXKsxYshWkOfQzaJxPbbsYbCwTCxf_Fq-jrD8HWnVhnjiw",
+        "pubDate": "Mon, 15 Jun 2026 10:00:00 +0000"
+      }
+    ]
+  },
+  "lastUpdated": "6/20/2026"
 }

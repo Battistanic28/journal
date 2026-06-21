@@ -52,14 +52,18 @@
     "substack": [
       "https://www.groundbrkr.com/feed",
       "https://eliasrutten.substack.com/feed",
-      "https://billmckibben.substack.com/feed"
+      "https://billmckibben.substack.com/feed",
+      "https://janrosenow.substack.com/feed",
+      "https://electroneconomics.substack.com/feed",
+      "https://newsletter.goodtechthings.com/feed"
     ],
     "web": [
       "https://hackaday.com/feed/",
       "https://makezine.com/rss"
     ],
     "podcasts": [
-      "https://www.volts.wtf/feed"
+      "https://www.volts.wtf/feed",
+      "https://stratechery.passport.online/feed/rss/CcFVtdSgdbxeweRaFP2PS"
     ]
   }
 }
