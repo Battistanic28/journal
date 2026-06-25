@@ -17,10 +17,10 @@
       },
       {
         "channel": "The Crucial Years",
-        "title": "Now where?",
-        "desc": "The world has turned a corner, offering a new and improved view",
-        "link": "https://billmckibben.substack.com/p/now-where",
-        "pubDate": "Fri, 19 Jun 2026 15:43:08 GMT"
+        "title": "How about Free? Is that affordable enough for you?",
+        "desc": "The latest on energy, climate and affordability",
+        "link": "https://billmckibben.substack.com/p/how-about-free-is-that-affordable",
+        "pubDate": "Wed, 24 Jun 2026 18:06:35 GMT"
       },
       {
         "channel": "Bright Spots",
@@ -31,10 +31,10 @@
       },
       {
         "channel": "Electron Economics",
-        "title": "Helix Digital Infrastructure is a new company for hyperscalers, and has a vendor stack that calls itself a platform",
-        "desc": "The founding documents contemplate priority and first-look rights that could allow its investors to become suppliers to the very portfolio they&#8217;re funding. That&#8217;s not a side clause &#8212; it&#8217;s the product",
-        "link": "https://electroneconomics.substack.com/p/helix-digital-infrastructure-is-a",
-        "pubDate": "Sat, 20 Jun 2026 12:58:22 GMT"
+        "title": "Oracle is not MBIA. But AI infrastructure Player CDS tells us something interesting ",
+        "desc": "A comparison of AI infra CDS to monoline insurers of 2007",
+        "link": "https://electroneconomics.substack.com/p/oracle-is-not-mbia-but-ai-infrastructure",
+        "pubDate": "Wed, 24 Jun 2026 23:00:59 GMT"
       },
       {
         "channel": "Good Tech Things",
@@ -47,16 +47,16 @@
     "slow-web": [
       {
         "channel": "Hackaday",
-        "title": "When a Favicon Becomes the Entire Website",
-        "desc": "<div><img width=\"522\" height=\"314\" src=\"https://hackaday.com/wp-content/uploads/2026/06/Wikipedia_favicon_in_Firefox_on_KDE.png?w=522\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2026/06/Wikipedia_favicon_in_Firefox_on_KDE.png 522w, https://hackaday.com/wp-content/uploads/2026/06/Wikipedia_favicon_in_Firefox_on_KDE.png?resize=250,150 250w, https://hackaday.com/wp-content/uploads/2026/06/Wikipedia_favicon_in_Firefox_on_KDE.png?resize=400,241 400w\" sizes=\"(max-width: 522px) 100vw, 522px\" data-attachment-id=\"1118639\" data-permalink=\"https://hackaday.com/2026/06/21/when-a-favicon-becomes-the-entire-website/wikipedia_favicon_in_firefox_on_kde/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2026/06/Wikipedia_favicon_in_Firefox_on_KDE.png\" data-orig-size=\"522,314\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;,&quot;alt&quot;:&quot;&quot;}\" data-image-title=\"Wikipedia_favicon_in_Firefox_on_KDE\" data-image-description=\"\" data-image-caption=\"\" data-large-file=\"https://hackaday.com/wp-content/uploads/2026/06/Wikipedia_favicon_in_Firefox_on_KDE.png?w=522\" /></div>Putting hidden data in places where few expect it can be a fun hobby or even a professional career. In the case of [Tim Wehrle] it&#8217;s just the former. His <a href=\"https://hackaday.com/2026/06/21/when-a-favicon-becomes-the-entire-website/\" class=\"read-more\">&#8230;read more</a>",
-        "link": "https://hackaday.com/2026/06/21/when-a-favicon-becomes-the-entire-website/",
-        "pubDate": "Sun, 21 Jun 2026 17:00:00 +0000"
+        "title": "CSS On The ESP32",
+        "desc": "<div><img width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/06/A-3D-cube-running-natively-at-60-FPS-on-a-3-microcontroller.-Written-in-TypeScript-JSX-and-CSS.-0-10-screenshot.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2026/06/A-3D-cube-running-natively-at-60-FPS-on-a-3-microcontroller.-Written-in-TypeScript-JSX-and-CSS.-0-10-screenshot.png 1280w, https://hackaday.com/wp-content/uploads/2026/06/A-3D-cube-running-natively-at-60-FPS-on-a-3-microcontroller.-Written-in-TypeScript-JSX-and-CSS.-0-10-screenshot.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2026/06/A-3D-cube-running-natively-at-60-FPS-on-a-3-microcontroller.-Written-in-TypeScript-JSX-and-CSS.-0-10-screenshot.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2026/06/A-3D-cube-running-natively-at-60-FPS-on-a-3-microcontroller.-Written-in-TypeScript-JSX-and-CSS.-0-10-screenshot.png?resize=800,450 800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"1119095\" data-permalink=\"https://hackaday.com/2026/06/25/css-on-the-esp32/a-3d-cube-running-natively-at-60-fps-on-a-3-microcontroller-written-in-typescript-jsx-and-css-0-10-screenshot/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2026/06/A-3D-cube-running-natively-at-60-FPS-on-a-3-microcontroller.-Written-in-TypeScript-JSX-and-CSS.-0-10-screenshot.png\" data-orig-size=\"1280,720\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;,&quot;alt&quot;:&quot;&quot;}\" data-image-title=\"A 3D cube running natively at 60 FPS on a $3 microcontroller. Written in TypeScript, JSX, and CSS. 0-10 screenshot\" data-image-description=\"\" data-image-caption=\"\" data-large-file=\"https://hackaday.com/wp-content/uploads/2026/06/A-3D-cube-running-natively-at-60-FPS-on-a-3-microcontroller.-Written-in-TypeScript-JSX-and-CSS.-0-10-screenshot.png?w=800\" /></div>There are lots of graphics libraries available for the ESP32, and lots of ways to program one to boot. Even still, most of us wouldn&#8217;t immediately think to CSS when <a href=\"https://hackaday.com/2026/06/25/css-on-the-esp32/\" class=\"read-more\">&#8230;read more</a>",
+        "link": "https://hackaday.com/2026/06/25/css-on-the-esp32/",
+        "pubDate": "Thu, 25 Jun 2026 17:00:17 +0000"
       },
       {
         "channel": "Make: DIY Projects and Ideas for Makers",
-        "title": "Top Ten Projects My Dad Would Like",
-        "desc": "<div><img width=\"620\" height=\"465\" src=\"https://makezine.com/wp-content/uploads/2015/10/fire-tornado-gif.gif\" class=\"attachment-medium size-medium wp-post-image\" alt=\"Top Ten Projects My Dad Would Like\" style=\"margin-bottom: 15px;\" decoding=\"async\" /></div>\n<p>This Father's Day I rounded up 9 projects my dad would like, plus one more.</p>\n<p>The post <a href=\"https://makezine.com/article/home/top-ten-projects-my-dad-would-like/\">Top Ten Projects My Dad Would Like</a> appeared first on <a href=\"https://makezine.com\">Make: DIY Projects and Ideas for Makers</a>.</p>\n",
-        "link": "https://makezine.com/article/home/top-ten-projects-my-dad-would-like/",
+        "title": "Move Beyond the Rainbow With These LED Color Tips",
+        "desc": "<div><img width=\"750\" height=\"500\" src=\"https://i0.wp.com/makezine.com/wp-content/uploads/2026/06/LED-Color-Fibonacci256-1.jpg?fit=750%2C500&amp;ssl=1\" class=\"attachment-medium size-medium wp-post-image\" alt=\"Move Beyond the Rainbow With These LED Color Tips\" style=\"margin-bottom: 15px;\" decoding=\"async\" srcset=\"https://i0.wp.com/makezine.com/wp-content/uploads/2026/06/LED-Color-Fibonacci256-1.jpg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/makezine.com/wp-content/uploads/2026/06/LED-Color-Fibonacci256-1.jpg?resize=750%2C500&amp;ssl=1 750w, https://i0.wp.com/makezine.com/wp-content/uploads/2026/06/LED-Color-Fibonacci256-1.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/makezine.com/wp-content/uploads/2026/06/LED-Color-Fibonacci256-1.jpg?resize=450%2C300&amp;ssl=1 450w, https://i0.wp.com/makezine.com/wp-content/uploads/2026/06/LED-Color-Fibonacci256-1.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/makezine.com/wp-content/uploads/2026/06/LED-Color-Fibonacci256-1.jpg?resize=1536%2C1024&amp;ssl=1 1536w\" sizes=\"(max-width: 750px) 100vw, 750px\" /></div>\n<p>Here’s how to move beyond rainbows and level up the hues on your RGB LED projects.</p>\n<p>The post <a href=\"https://makezine.com/article/technology/move-beyond-the-rainbow-with-these-led-color-tips/\">Move Beyond the Rainbow With These LED Color Tips</a> appeared first on <a href=\"https://makezine.com\">Make: DIY Projects and Ideas for Makers</a>.</p>\n",
+        "link": "https://makezine.com/article/technology/move-beyond-the-rainbow-with-these-led-color-tips/",
         "pubDate": ""
       },
       {
@@ -68,10 +68,10 @@
       },
       {
         "channel": "CleanTechnica",
-        "title": "European Union Going To Put Tariffs On Plugin Hybrids From China Now?",
-        "desc": "<p>China has rapidly electrified its auto market, which is by far the largest auto market in the world. The country accounts for about half of the world&#8217;s electric vehicle sales, and 63% of the country&#8217;s auto sales were plugin vehicles last month. As the market has ramped up and gotten   ... [continued]</p>\n<p>The post <a href=\"https://cleantechnica.com/2026/06/21/european-union-going-to-put-tariffs-on-plugin-hybrids-from-china-now/\">European Union Going To Put Tariffs On Plugin Hybrids From China Now?</a> appeared first on <a href=\"https://cleantechnica.com\">CleanTechnica</a>.</p>\n",
-        "link": "https://cleantechnica.com/2026/06/21/european-union-going-to-put-tariffs-on-plugin-hybrids-from-china-now/",
-        "pubDate": "Sun, 21 Jun 2026 18:07:49 +0000"
+        "title": "The Inevitable Electrification of Labor? — CleanTechnica Field Trip",
+        "desc": "<p>CleanTechnica was invited on a media tour through China hosted by iMpactPR. They specialize in connecting Chinese companies with the outside world, and we were excited to dive deep into all of the innovation and manufacturing happening in China with them. Disclaimer: the author&#8217;s travel and accommodations were paid for   ... [continued]</p>\n<p>The post <a href=\"https://cleantechnica.com/2026/06/25/the-inevitable-electrification-of-labor-cleantechnica-field-trip/\">The Inevitable Electrification of Labor? — CleanTechnica Field Trip</a> appeared first on <a href=\"https://cleantechnica.com\">CleanTechnica</a>.</p>\n",
+        "link": "https://cleantechnica.com/2026/06/25/the-inevitable-electrification-of-labor-cleantechnica-field-trip/",
+        "pubDate": "Thu, 25 Jun 2026 18:39:54 +0000"
       },
       {
         "channel": "From Coffee With Love",
@@ -79,40 +79,33 @@
         "desc": "A few days after landing in Vienna last month and scrolling through Instagram, it seemed to me that Wild Kaffee had opened a coffee shop in Vienna with none other than 2024 World Brewers Champion Martin Wölfl however when I looked up the address on google maps, I drew a blank…… there was no such &#8230; <p class=\"link-more\"><a href=\"https://fromcoffeewithlove.com/2026/05/23/i-was-at-wildkaffee-vienna/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"I WAS AT WILDKAFFEE,&#160;VIENNA\"</span></a></p>",
         "link": "https://fromcoffeewithlove.com/2026/05/23/i-was-at-wildkaffee-vienna/",
         "pubDate": "Sat, 23 May 2026 14:46:21 +0000"
-      },
-      {
-        "channel": "Wikipedia Today's Featured Article",
-        "title": "Ringo Starr",
-        "desc": "\n<div id=\"mp-tfa\" style=\"padding:2px 5px\">\n<div id=\"mp-tfa-img\" style=\"float: left; margin: 0.5em 0.9em 0.4em 0em;\"><a class=\"image\" href=\"http://en.wikipedia.org/wiki/File:Ringo_Starr_and_all_his_band_(8470866906).jpg\" title=\"Ringo Starr\"><img alt=\"Ringo Starr\" data-file-height=\"1354\" data-file-width=\"1000\" height=\"135\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Ringo_Starr_and_all_his_band_%288470866906%29.jpg/100px-Ringo_Starr_and_all_his_band_%288470866906%29.jpg\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Ringo_Starr_and_all_his_band_%288470866906%29.jpg/150px-Ringo_Starr_and_all_his_band_%288470866906%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Ringo_Starr_and_all_his_band_%288470866906%29.jpg/200px-Ringo_Starr_and_all_his_band_%288470866906%29.jpg 2x\" width=\"100\"/></a></div>\n<p><b><a href=\"http://en.wikipedia.org/wiki/Ringo_Starr\" title=\"Ringo Starr\">Ringo Starr</a></b> (born 1940) is an English drummer, singer, songwriter, and actor best known as the drummer for <a href=\"http://en.wikipedia.org/wiki/The_Beatles\" title=\"The Beatles\">the Beatles</a>. As a child he was twice afflicted by life-threatening illnesses requiring prolonged hospitalisations. He cofounded his first band in 1957, the Eddie Clayton <a href=\"http://en.wikipedia.org/wiki/Skiffle\" title=\"Skiffle\">Skiffle</a> Group, and then achieved moderate success with <a href=\"http://en.wikipedia.org/wiki/Rory_Storm#Rory_Storm_and_the_Hurricanes\" title=\"Rory Storm\">Rory Storm and the Hurricanes</a>. He joined the Beatles in 1962, replacing <a href=\"http://en.wikipedia.org/wiki/Pete_Best\" title=\"Pete Best\">Pete Best</a>. He sang lead vocals for &quot;<a href=\"http://en.wikipedia.org/wiki/With_a_Little_Help_from_My_Friends\" title=\"With a Little Help from My Friends\">With a Little Help from My Friends</a>&quot; and &quot;<a href=\"http://en.wikipedia.org/wiki/Yellow_Submarine_(song)\" title=\"Yellow Submarine (song)\">Yellow Submarine</a>&quot;. Starr played key roles in <a href=\"http://en.wikipedia.org/wiki/The_Beatles_in_film\" title=\"The Beatles in film\">the Beatles' films</a> and appeared in numerous others. After <a href=\"http://en.wikipedia.org/wiki/Break-up_of_the_Beatles\" title=\"Break-up of the Beatles\">the band's break-up</a> in 1970, he released &quot;<a href=\"http://en.wikipedia.org/wiki/It_Don%27t_Come_Easy\" title=\"It Don't Come Easy\">It Don't Come Easy</a>&quot;, &quot;<a href=\"http://en.wikipedia.org/wiki/Photograph_(Ringo_Starr_song)\" title=\"Photograph (Ringo Starr song)\">Photograph&quot;</a> and &quot;<a href=\"http://en.wikipedia.org/wiki/Back_Off_Boogaloo\" title=\"Back Off Boogaloo\">Back Off Boogaloo</a>&quot;, followed by the 1973 top ten album <i><a href=\"http://en.wikipedia.org/wiki/Ringo_(album)\" title=\"Ringo (album)\">Ringo</a></i>. He narrated the first two seasons of the children's television series <i><a href=\"http://en.wikipedia.org/wiki/Thomas_%26_Friends\" title=\"Thomas &amp; Friends\">Thomas &amp; Friends</a></i>. Since 1989, he has successfully toured with twelve variations of <a href=\"http://en.wikipedia.org/wiki/Ringo_Starr_%26_His_All-Starr_Band\" title=\"Ringo Starr &amp; His All-Starr Band\">Ringo Starr &amp; His All-Starr Band</a>. In 2011 <i><a href=\"http://en.wikipedia.org/wiki/Rolling_Stone\" title=\"Rolling Stone\">Rolling Stone</a></i> readers named Starr the fifth-greatest drummer of all time. He was inducted into the <a href=\"http://en.wikipedia.org/wiki/Rock_and_Roll_Hall_of_Fame\" title=\"Rock and Roll Hall of Fame\">Rock and Roll Hall of Fame</a> as a Beatle in 1988 and for his solo career in 2015. (<a href=\"http://en.wikipedia.org/wiki/Ringo_Starr\" title=\"Ringo Starr\"><b>Full article...</b></a>)</p>\n<ul style=\"list-style:none; margin-left:0; text-align:right;\">\n<li>Recently featured:\n<div class=\"hlist inline\">\n<ul>\n<li><i><a href=\"http://en.wikipedia.org/wiki/Sinistar:_Unleashed\" title=\"Sinistar: Unleashed\">Sinistar: Unleashed</a></i></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Unas\" title=\"Unas\">Unas</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/United_States_Bicentennial_coinage\" title=\"United States Bicentennial coinage\">United States Bicentennial coinage</a></li>\n</ul>\n</div>\n</li>\n</ul>\n<div class=\"hlist noprint\" id=\"mp-tfa-footer\" style=\"text-align: right;\">\n<ul>\n<li><b><a href=\"http://en.wikipedia.org/wiki/Wikipedia:Today%27s_featured_article/July_2015\" title=\"Wikipedia:Today's featured article/July 2015\">Archive</a></b></li>\n<li><b><a class=\"extiw\" href=\"http://en.wikipedia.orghttps://lists.wikimedia.org/mailman/listinfo/daily-article-l\" title=\"mail:daily-article-l\">By email</a></b></li>\n<li><b><a href=\"http://en.wikipedia.org/wiki/Wikipedia:Featured_articles\" title=\"Wikipedia:Featured articles\">More featured articles...</a></b></li>\n</ul>\n</div>\n</div>\n",
-        "link": "http://en.wikipedia.org/wiki/Ringo_Starr",
-        "pubDate": "Tue, 07 Jul 2015 10:07:55 GMT"
       }
     ],
     "podcasts": [
       {
         "channel": "Volts",
-        "title": "America's flagship automaker enters the home energy market",
-        "desc": "Aseem Kapur joins me to explain how GM plans to turn its massive EV fleet into a distributed virtual power plant.",
-        "link": "https://www.volts.wtf/p/americas-flagship-automaker-enters",
-        "pubDate": "Fri, 19 Jun 2026 16:03:42 GMT"
+        "title": "How to keep people cool without making the planet even hotter",
+        "desc": "RMI's Ankit Kalanki on why fixing the way we test air conditioners is the secret lever to slashing global cooling emissions.",
+        "link": "https://www.volts.wtf/p/how-to-keep-people-cool-without-making",
+        "pubDate": "Wed, 24 Jun 2026 16:05:03 GMT"
       },
       {
         "channel": "Stratechery",
         "title": "Anthropic’s Safety Superpower",
         "desc": "Anthropic&#39;s belief in its own commitment to safety gives the company license to aggressively favor its business and even challenge the U.S. government.",
-        "link": "https://stratechery.com/2026/anthropics-safety-superpower/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L2FudGhyb3BpY3Mtc2FmZXR5LXN1cGVycG93ZXIvIl19LCJleHAiOjE3ODQ1OTU1OTEsImlhdCI6MTc4MjAwMzU5MSwiaXNzIjoiaHR0cHM6Ly9hcHAucGFzc3BvcnQub25saW5lL29hdXRoIiwic2NvcGUiOiJmZWVkOnJlYWQgYXJ0aWNsZTpyZWFkIGFzc2V0OnJlYWQgY2F0ZWdvcnk6cmVhZCBlbnRpdGxlbWVudHMgcG9kY2FzdCByc3MiLCJzdWIiOiIwMTllZTdiMC01MTVjLTc0NGItYTI5MC0zNTMwODk3ZjlhMWUiLCJ1c2UiOiJhY2Nlc3MifQ.E4R7g7TWrKk5zMig-U_5Lltj7FYfaZOdnR3I5msLDBTOIPYCwyjQXf2z6AzIPLMZAfdzIqwTMNeJf4HbJCK_5j6VA2Ccig6nhE2klJquILTDBc-8VOMd_qELv9_Lfjzy6OW_3fG_Ob2cZBNOsipIf71smPw8Rin1MBhwwGxIY2WUa4bpMEV3R_Ys1VLlQQjn1del5EDZyLG_uze1lj59q_toieYUG5yytM5BZhnxk07GMjVYm1aQHEy_Ph_o1_kETzxcl6KmREppCk4fqPLkaznzvCbSBwwEu7gsnki4kXKsxYshWkOfQzaJxPbbsYbCwTCxf_Fq-jrD8HWnVhnjiw",
+        "link": "https://stratechery.com/2026/anthropics-safety-superpower/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L2FudGhyb3BpY3Mtc2FmZXR5LXN1cGVycG93ZXIvIl19LCJleHAiOjE3ODUwMDg3MzYsImlhdCI6MTc4MjQxNjczNiwiaXNzIjoiaHR0cHM6Ly9hcHAucGFzc3BvcnQub25saW5lL29hdXRoIiwic2NvcGUiOiJmZWVkOnJlYWQgYXJ0aWNsZTpyZWFkIGFzc2V0OnJlYWQgY2F0ZWdvcnk6cmVhZCBlbnRpdGxlbWVudHMgcG9kY2FzdCByc3MiLCJzdWIiOiIwMTllZTdiMC01MTVjLTc0NGItYTI5MC0zNTMwODk3ZjlhMWUiLCJ1c2UiOiJhY2Nlc3MifQ.PkeWsEsaAzJkSNNEF47M9PSkPCi8iUzv5P45hTkuGPU0vfl5ROpZvn6fcoP5o2RJGGizx6tbWwl9vJlrZnagfuXOO1YE-JMjGdqUGU0fp12CwdSKWoMkt6NEvN5c0YW5fAB73d0ya7CTZioA9F20lTP8cYWTuZ0mxTBsCLTYMSJF_Me6apmZB9w2AkevbVABwpvROHcHB85gJlw5NwwwLJB-qslzfQp4yk5BiMbChugVLRUEza5z3rzSsd0c2pw0rwOmQ7A46vzvq_SOaCDRLJOuYF-yRCg1s9ir8ZdNh6yC0IynIo6ShGWKDXD8WIUwNRE3VkR3y9_WicYglWX6Cg",
         "pubDate": "Mon, 15 Jun 2026 10:00:00 +0000"
       }
     ],
     "music": [
       {
         "channel": "Under the Radar",
-        "title": "12 Best Songs of the Week: Julia Jacklin, Saul Williams, Squirrel Flower, Shannon Lay, and More",
-        "desc": "Welcome to the 23rd Songs of the Week of 2026. This week Caleb Campbell and Carlo Thomas helped me decide the list. We considered over 30 songs and narrowed it down to a Top 12.",
-        "link": "http://www.undertheradarmag.com/news/12_best_songs_of_the_week_julia_jacklin_saul_williams_squirrel_flower_shann",
+        "title": "Zappa ’66 Vol. 1: Live at TTG Studios",
+        "desc": "Live at TTG Studios resurrects the VAULTernative label, the archival series that presents rare, obscure, and/or historically significant recordings from the Frank Zappa vault.",
+        "link": "http://www.undertheradarmag.com/reviews/zappa_66_vol._1_live_at_ttg_studios_frank",
         "pubDate": ""
       }
     ]
   },
-  "lastUpdated": "6/21/2026"
+  "lastUpdated": "6/25/2026"
 }
