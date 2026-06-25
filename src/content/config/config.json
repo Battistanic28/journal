@@ -47,5 +47,29 @@
       "title": "Substack",
       "url": "https://substack.com/@thelandmammal"
     }
-  ]
+  ],
+  "feed": {
+    "substack": [
+      "https://www.groundbrkr.com/feed",
+      "https://eliasrutten.substack.com/feed",
+      "https://billmckibben.substack.com/feed",
+      "https://janrosenow.substack.com/feed",
+      "https://electroneconomics.substack.com/feed",
+      "https://newsletter.goodtechthings.com/feed"
+    ],
+    "slow-web": [
+      "https://hackaday.com/feed/",
+      "https://makezine.com/rss",
+      "https://solar.lowtechmagazine.com/posts/index.xml",
+      "https://cleantechnica.com/feed/",
+      "https://fromcoffeewithlove.com/feed/"
+    ],
+    "podcasts": [
+      "https://www.volts.wtf/feed",
+      "https://stratechery.passport.online/feed/rss/CcFVtdSgdbxeweRaFP2PS"
+    ],
+    "music": [
+      "https://www.undertheradarmag.com/rss"
+    ]
+  }
 }

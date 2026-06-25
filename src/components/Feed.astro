@@ -1,0 +1,45 @@
+---
+import rawFeed from "../content/config/data.json";
+const sources = Object.keys(rawFeed.data);
+
+interface ContentItem {
+  channel: string;
+  title: string;
+  desc: string;
+  link: string;
+  pubDate: string;
+}
+
+interface Feed {
+  [source: string]: ContentItem[];
+}
+
+const feed = rawFeed.data as Feed;
+---
+
+<section>
+  {
+    sources.map((source) => {
+      if (feed[source].length === 0) return;
+      return (
+        <details>
+          <summary><b>{source}</b></summary>
+          <ul>
+            {feed[source].map((content: ContentItem) => {
+              return (
+                <li>
+                  <i>{content.channel}:</i>
+                  <a href={content.link} target="_blank">
+                    {content.title}
+                  </a>
+                </li>
+              );
+            })}
+          </ul>
+        </details>
+      );
+    })
+  }
+  <br/>
+  <i>last updated: {rawFeed.lastUpdated}</i>
+</section>

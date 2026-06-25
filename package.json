@@ -9,11 +9,13 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "update-feed": "bun run lib/getFeed.ts"
   },
   "dependencies": {
     "@astrojs/mdx": "^6.0.2",
     "@types/bun": "^1.3.14",
-    "astro": "^6.4.4"
+    "astro": "^6.4.4",
+    "fast-xml-parser": "^5.9.2"
   }
 }

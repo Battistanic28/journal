@@ -119,6 +119,16 @@ li::marker {
   content: "❋ ";
 }
 
+summary::marker {
+  content: "▶ ";
+  color: var(--color-pink)
+}
+
+details[open] summary::marker {
+  content: "▼ ";
+  color: var(--color-pink)
+}
+
 .contains-task-list {
   list-style: none;
   padding-inline-start: 1.2em;
