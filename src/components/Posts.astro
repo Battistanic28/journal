@@ -11,9 +11,15 @@ const posts = await getRecentPosts();
       posts.map((p) => (
         <li>
           <a href={`/ramblings/${p.data.slug}`}>{p.data.title}</a>
-          {` ..... [${p.data.published}]`}
+          <span class="date"> -- [{p.data.published}]</span>
         </li>
       ))
     }
   </ul>
 </section>
+
+<style>
+  .date {
+    color: var(--color-muted, var(--color-gray));
+  }
+</style>
