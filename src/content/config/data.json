@@ -9,34 +9,6 @@
         "pubDate": "Sun, 07 Jun 2026 21:04:13 GMT"
       },
       {
-        "channel": "Power, Profit & Politics",
-        "title": "After the Ayatollah, Trump Drank the Poison",
-        "desc": "Tehran won the war, but can it also win the peace?",
-        "link": "https://eliasrutten.substack.com/p/after-the-ayatollah-trump-drank-the",
-        "pubDate": "Sun, 21 Jun 2026 17:14:12 GMT"
-      },
-      {
-        "channel": "The Crucial Years",
-        "title": "How about Free? Is that affordable enough for you?",
-        "desc": "The latest on energy, climate and affordability",
-        "link": "https://billmckibben.substack.com/p/how-about-free-is-that-affordable",
-        "pubDate": "Wed, 24 Jun 2026 18:06:35 GMT"
-      },
-      {
-        "channel": "Bright Spots",
-        "title": "Europe's best defence against the next price shock",
-        "desc": "Efficiency has already saved Europe a third of its energy since 2000. Treating it as one system with electrification and clean power is how the rest gets done.",
-        "link": "https://janrosenow.substack.com/p/europes-best-defence-against-the",
-        "pubDate": "Sun, 21 Jun 2026 08:16:06 GMT"
-      },
-      {
-        "channel": "Electron Economics",
-        "title": "FERC didn’t settle who pays for the AI grid. It made every market litigate it.",
-        "desc": "FERC did not settle the large-load cost-allocation fight. It did something more consequential for underwriters: it forced every organised market to litigate the fight in its tariff.",
-        "link": "https://electroneconomics.substack.com/p/ferc-didnt-settle-who-pays-for-the",
-        "pubDate": "Fri, 26 Jun 2026 02:10:10 GMT"
-      },
-      {
         "channel": "Good Tech Things",
         "title": "Paradox, Inc",
         "desc": "exciting book news!",
@@ -93,7 +65,7 @@
         "channel": "Stratechery",
         "title": "Anthropic’s Safety Superpower",
         "desc": "Anthropic&#39;s belief in its own commitment to safety gives the company license to aggressively favor its business and even challenge the U.S. government.",
-        "link": "https://stratechery.com/2026/anthropics-safety-superpower/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L2FudGhyb3BpY3Mtc2FmZXR5LXN1cGVycG93ZXIvIl19LCJleHAiOjE3ODUwMDg3MzYsImlhdCI6MTc4MjQxNjczNiwiaXNzIjoiaHR0cHM6Ly9hcHAucGFzc3BvcnQub25saW5lL29hdXRoIiwic2NvcGUiOiJmZWVkOnJlYWQgYXJ0aWNsZTpyZWFkIGFzc2V0OnJlYWQgY2F0ZWdvcnk6cmVhZCBlbnRpdGxlbWVudHMgcG9kY2FzdCByc3MiLCJzdWIiOiIwMTllZTdiMC01MTVjLTc0NGItYTI5MC0zNTMwODk3ZjlhMWUiLCJ1c2UiOiJhY2Nlc3MifQ.PkeWsEsaAzJkSNNEF47M9PSkPCi8iUzv5P45hTkuGPU0vfl5ROpZvn6fcoP5o2RJGGizx6tbWwl9vJlrZnagfuXOO1YE-JMjGdqUGU0fp12CwdSKWoMkt6NEvN5c0YW5fAB73d0ya7CTZioA9F20lTP8cYWTuZ0mxTBsCLTYMSJF_Me6apmZB9w2AkevbVABwpvROHcHB85gJlw5NwwwLJB-qslzfQp4yk5BiMbChugVLRUEza5z3rzSsd0c2pw0rwOmQ7A46vzvq_SOaCDRLJOuYF-yRCg1s9ir8ZdNh6yC0IynIo6ShGWKDXD8WIUwNRE3VkR3y9_WicYglWX6Cg",
+        "link": "https://stratechery.com/2026/anthropics-safety-superpower/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L2FudGhyb3BpY3Mtc2FmZXR5LXN1cGVycG93ZXIvIl19LCJleHAiOjE3ODUwMzYyMjgsImlhdCI6MTc4MjQ0NDIyOCwiaXNzIjoiaHR0cHM6Ly9hcHAucGFzc3BvcnQub25saW5lL29hdXRoIiwic2NvcGUiOiJmZWVkOnJlYWQgYXJ0aWNsZTpyZWFkIGFzc2V0OnJlYWQgY2F0ZWdvcnk6cmVhZCBlbnRpdGxlbWVudHMgcG9kY2FzdCByc3MiLCJzdWIiOiIwMTllZTdiMC01MTVjLTc0NGItYTI5MC0zNTMwODk3ZjlhMWUiLCJ1c2UiOiJhY2Nlc3MifQ.mWiCth6ceA89-Z0XEOOZnFSNYpaFy-6o2gQAofYOwwRn_TU2IJur-M5xLjLIDI25C4go6Akmgc-a5BuKAc3cefab1FUEcvOgfFbqH7zd92YjzB74FhvVUvMFu0fIaItBbn2IjNPp7EdY0N1OKSMU21OTtRtZGCv2-rjXq1meGxd52YrDBMgSMk9Fqivfilby9f_pd1B5aHEMrR413TiTBRdF_4YaLM0XLgBeAbMids3jZiQ9eBs9nRcf0ai_7jX4cW4HVAVy67CTS4hAABMvcgBmWuEo7Uh8y4Z1g8j48RKQmDkxG5bqJ4w4DZ-VSJ-CBCLdrWIi55wIvapduKQaKg",
         "pubDate": "Mon, 15 Jun 2026 10:00:00 +0000"
       }
     ],
@@ -107,5 +79,5 @@
       }
     ]
   },
-  "lastUpdated": "6/25/2026"
+  "lastUpdated": "6/26/2026"
 }
