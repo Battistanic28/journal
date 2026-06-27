@@ -19,10 +19,10 @@
     "slow-web": [
       {
         "channel": "Hackaday",
-        "title": "This Week in Security: Stealing Email with AI, AMD Nerfs Chips, the World Cup Nearly Rickrolled, and GPSD Bugs",
-        "desc": "<div><img width=\"800\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg 800w, https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg?resize=250,151 250w, https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg?resize=400,242 400w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"188080\" data-permalink=\"https://hackaday.com/2016/01/26/the-dark-arts-meet-the-lulzsec-hackers/darkarts/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg\" data-orig-size=\"800,484\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}\" data-image-title=\"DarkArts\" data-image-description=\"\" data-image-caption=\"\" data-large-file=\"https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg?w=800\" /></div>Firefox recently added integrated AI support &#8212; a generally poorly received move among many Firefox users &#8212; that includes an AI chatbot integration for interacting with web pages. Florian Port <a href=\"https://hackaday.com/2026/06/26/this-week-in-security-stealing-email-with-ai-amd-nerfs-chips-the-world-cup-nearly-hacked-and-gpsd-bugs/\" class=\"read-more\">&#8230;read more</a>",
-        "link": "https://hackaday.com/2026/06/26/this-week-in-security-stealing-email-with-ai-amd-nerfs-chips-the-world-cup-nearly-hacked-and-gpsd-bugs/",
-        "pubDate": "Fri, 26 Jun 2026 14:00:30 +0000"
+        "title": "NVIDIA&#8217;s New AI Servers Run on Hotub Coolant and Don&#8217;t Need Evaporators",
+        "desc": "<div><img width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/06/HotLiquidCooling_NVIDIA_feat.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2026/06/HotLiquidCooling_NVIDIA_feat.jpg 1920w, https://hackaday.com/wp-content/uploads/2026/06/HotLiquidCooling_NVIDIA_feat.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2026/06/HotLiquidCooling_NVIDIA_feat.jpg?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2026/06/HotLiquidCooling_NVIDIA_feat.jpg?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2026/06/HotLiquidCooling_NVIDIA_feat.jpg?resize=1536,864 1536w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"1119363\" data-permalink=\"https://hackaday.com/2026/06/26/nvidias-new-ai-servers-run-on-hotub-coolant-and-dont-need-evaporators/hotliquidcooling_nvidia_feat/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2026/06/HotLiquidCooling_NVIDIA_feat.jpg\" data-orig-size=\"1920,1080\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;,&quot;alt&quot;:&quot;&quot;}\" data-image-title=\"HotLiquidCooling_NVIDIA_feat\" data-image-description=\"\" data-image-caption=\"\" data-large-file=\"https://hackaday.com/wp-content/uploads/2026/06/HotLiquidCooling_NVIDIA_feat.jpg?w=800\" /></div>When people start ranting about AI, you can be sure a few things are going to come up during the two-minutes hate: job loss, higher power bills, the neverending tide <a href=\"https://hackaday.com/2026/06/26/nvidias-new-ai-servers-run-on-hotub-coolant-and-dont-need-evaporators/\" class=\"read-more\">&#8230;read more</a>",
+        "link": "https://hackaday.com/2026/06/26/nvidias-new-ai-servers-run-on-hotub-coolant-and-dont-need-evaporators/",
+        "pubDate": "Sat, 27 Jun 2026 02:00:36 +0000"
       },
       {
         "channel": "Make: DIY Projects and Ideas for Makers",
@@ -40,10 +40,10 @@
       },
       {
         "channel": "CleanTechnica",
-        "title": "Volkswagen Group &#038; Elli Bring Vehicle-to-Grid Offer to the Volume Market!",
-        "desc": "<p>Elli presents an integrated product package for bidirectional charging in Germany together with Volkswagen, Volkswagen Commercial Vehicles and CUPRA at Power2Drive. The offer combines compatible electric vehicles, the Elli BiDi Charger, Volkswagen Naturstrom V2G Flow electricity tariff and the Elli BiDi App, enabling active participation in the energy market via   ... [continued]</p>\n<p>The post <a href=\"https://cleantechnica.com/2026/06/25/volkswagen-group-elli-bring-vehicle-to-grid-offer-to-the-volume-market/\">Volkswagen Group &#038; Elli Bring Vehicle-to-Grid Offer to the Volume Market!</a> appeared first on <a href=\"https://cleantechnica.com\">CleanTechnica</a>.</p>\n",
-        "link": "https://cleantechnica.com/2026/06/25/volkswagen-group-elli-bring-vehicle-to-grid-offer-to-the-volume-market/",
-        "pubDate": "Fri, 26 Jun 2026 03:59:23 +0000"
+        "title": "Renewable Power Purchase Agreement Prices About To Spike",
+        "desc": "<p>The Trump administration’s &#8220;One Big Beautiful Bill Act&#8221; (OBBBA) was full of all kinds of crap, rubbish, and bile. In short, it was named for what it was not — but that&#8217;s enough to fool most people. One thing the OBBBA did was rapidly phase out federal wind and solar   ... [continued]</p>\n<p>The post <a href=\"https://cleantechnica.com/2026/06/26/renewable-power-purchase-agreement-prices-about-to-spike/\">Renewable Power Purchase Agreement Prices About To Spike</a> appeared first on <a href=\"https://cleantechnica.com\">CleanTechnica</a>.</p>\n",
+        "link": "https://cleantechnica.com/2026/06/26/renewable-power-purchase-agreement-prices-about-to-spike/",
+        "pubDate": "Sat, 27 Jun 2026 03:40:45 +0000"
       },
       {
         "channel": "From Coffee With Love",
@@ -65,19 +65,19 @@
         "channel": "Stratechery",
         "title": "Anthropic’s Safety Superpower",
         "desc": "Anthropic&#39;s belief in its own commitment to safety gives the company license to aggressively favor its business and even challenge the U.S. government.",
-        "link": "https://stratechery.com/2026/anthropics-safety-superpower/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L2FudGhyb3BpY3Mtc2FmZXR5LXN1cGVycG93ZXIvIl19LCJleHAiOjE3ODUwMzcxODUsImlhdCI6MTc4MjQ0NTE4NSwiaXNzIjoiaHR0cHM6Ly9hcHAucGFzc3BvcnQub25saW5lL29hdXRoIiwic2NvcGUiOiJmZWVkOnJlYWQgYXJ0aWNsZTpyZWFkIGFzc2V0OnJlYWQgY2F0ZWdvcnk6cmVhZCBlbnRpdGxlbWVudHMgcG9kY2FzdCByc3MiLCJzdWIiOiIwMTllZTdiMC01MTVjLTc0NGItYTI5MC0zNTMwODk3ZjlhMWUiLCJ1c2UiOiJhY2Nlc3MifQ.LvkNq4RiGjOvf_hVqwGeXA-dV2O91Fu_AuqOImZ9HPMmsYjByO428Gz-DHbwkCS43-xs7DItDVMkLoQp6tuxEiceMaCkn3nWfAh7SWKmDNvmibSTxJD75-YVv46m-MFWgq_qpbmecY0DoXBm4EdW_L2GxpDSfBbW1m8ydYiAjzrC4RBDqDgDDWdf73WsboYgFwyuW6wJbmwO0zNq-9-gHwEw5X5iP5gGEGRydnToEHkoQ1pxl6sxItp5-QtGGs09tRnSciu7Oh1T9N5H6wS1jin2qS2Mar-C1gWMiEZk5d8SseWOID7lf7hrxwcoKEUf9o1quEy4d6DadBWa8NEvSQ",
+        "link": "https://stratechery.com/2026/anthropics-safety-superpower/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L2FudGhyb3BpY3Mtc2FmZXR5LXN1cGVycG93ZXIvIl19LCJleHAiOjE3ODUxMjU4ODUsImlhdCI6MTc4MjUzMzg4NSwiaXNzIjoiaHR0cHM6Ly9hcHAucGFzc3BvcnQub25saW5lL29hdXRoIiwic2NvcGUiOiJmZWVkOnJlYWQgYXJ0aWNsZTpyZWFkIGFzc2V0OnJlYWQgY2F0ZWdvcnk6cmVhZCBlbnRpdGxlbWVudHMgcG9kY2FzdCByc3MiLCJzdWIiOiIwMTllZTdiMC01MTVjLTc0NGItYTI5MC0zNTMwODk3ZjlhMWUiLCJ1c2UiOiJhY2Nlc3MifQ.m7lMiN9NPYVMoKrZ3TNYjA3qsd-5bulnRY_ZBbX8MUcxdqpxaT7FIIOgLD_qgSTwfyPVnkkWsoT4-wDrs763xMnB7yle1WEPzWM3RUBi5gkYUmh_pmgow-_tFacZrbNWLKcK--To6yXZ1M0Vqj0st0WLJtS5I3M07QvGqf9sa_Nwmu9Cfsxm5ZHyuYZb5JDpe0ZVnXt8-T6WGfzu7pIu5ylc21tzJ3xZDjmWZZ5vWEHRVuu1imHlMe71OWCU4t8ognqGFYfz-MUjUoQbx6PTU3dgU07bciTWOvVl5gcrslnM-BmKgW3a26iK2BMG7VcH_XvQyHo4lB-hgCV65uZKDA",
         "pubDate": "Mon, 15 Jun 2026 10:00:00 +0000"
       }
     ],
     "music": [
       {
         "channel": "Under the Radar",
-        "title": "Phoebe Bridgers Shares Video for New Song “Lost Boys” (Feat. Julien Baker, Lucy Dacus, and Alex G)",
-        "desc": "Yesterday, Phoebe Bridgers announced a new album, Lost Weekend, which is due out August 14 via Dead Oceans. Now, as promised, she has released its first single, “Lost Boys,” which features Julien Baker, Lucy Dacus, Alex G, Jack Antonoff, Christian Lee Hutson, Blake Mills, and others. It is accompanied by a music video featuring Bridgers at a Renaissance faire taking part in Live Action Role Playing.",
-        "link": "http://www.undertheradarmag.com/news/phoebe_bridgers_shares_video_for_new_song_lost_boys_feat._julien_baker_lucy",
+        "title": "16 Best Songs of the Week: PJ Harvey, Phoebe Bridgers, Wild Pink, Swapmeet, and More",
+        "desc": "Welcome to the 24th Songs of the Week of 2026. This week Andy Von Pip, Caleb Campbell, Mark Moody, and Stephen Humphries helped me decide the list. We considered over 60 songs and narrowed it down to a Top 16. It was a blockbuster week for new songs.",
+        "link": "http://www.undertheradarmag.com/news/16_best_songs_of_the_week_pj_harvey_phoebe_bridgers_wild_pink_swapmeet_and",
         "pubDate": ""
       }
     ]
   },
-  "lastUpdated": "6/26/2026"
+  "lastUpdated": "6/27/2026"
 }
