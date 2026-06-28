@@ -9,34 +9,6 @@
         "pubDate": "Sun, 07 Jun 2026 21:04:13 GMT"
       },
       {
-        "channel": "Power, Profit & Politics",
-        "title": "A Civilisation Worth Defending",
-        "desc": "On the death of the old world order and the crisis of liberalism",
-        "link": "https://eliasrutten.substack.com/p/a-civilisation-worth-defending",
-        "pubDate": "Sat, 27 Jun 2026 14:46:01 GMT"
-      },
-      {
-        "channel": "The Crucial Years",
-        "title": "And so \"climate\" returns",
-        "desc": "The next--and most important--cycle in a long-running battle",
-        "link": "https://billmckibben.substack.com/p/and-so-climate-returns",
-        "pubDate": "Fri, 26 Jun 2026 15:33:42 GMT"
-      },
-      {
-        "channel": "Bright Spots",
-        "title": "Renewables just had their best year ever",
-        "desc": "2025 was a record year for clean power but still falling short of what is needed",
-        "link": "https://janrosenow.substack.com/p/renewables-just-had-their-best-year",
-        "pubDate": "Sun, 28 Jun 2026 09:46:15 GMT"
-      },
-      {
-        "channel": "Electron Economics",
-        "title": "Large-load tariff tracker update: Virginia’s GS-5 is effective January 1, 2027. $1.5 million per MW in upfront collateral. ",
-        "desc": "For a 500 MW facility, that&#8217;s $750 million before you&#8217;ve pulled a permit.",
-        "link": "https://electroneconomics.substack.com/p/large-load-tariff-tracker-update",
-        "pubDate": "Sun, 28 Jun 2026 11:50:48 GMT"
-      },
-      {
         "channel": "Good Tech Things",
         "title": "Paradox, Inc",
         "desc": "exciting book news!",
@@ -93,11 +65,19 @@
         "channel": "Stratechery",
         "title": "Anthropic’s Safety Superpower",
         "desc": "Anthropic&#39;s belief in its own commitment to safety gives the company license to aggressively favor its business and even challenge the U.S. government.",
-        "link": "https://stratechery.com/2026/anthropics-safety-superpower/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L2FudGhyb3BpY3Mtc2FmZXR5LXN1cGVycG93ZXIvIl19LCJleHAiOjE3ODUyNzE4NjUsImlhdCI6MTc4MjY3OTg2NSwiaXNzIjoiaHR0cHM6Ly9hcHAucGFzc3BvcnQub25saW5lL29hdXRoIiwic2NvcGUiOiJmZWVkOnJlYWQgYXJ0aWNsZTpyZWFkIGFzc2V0OnJlYWQgY2F0ZWdvcnk6cmVhZCBlbnRpdGxlbWVudHMgcG9kY2FzdCByc3MiLCJzdWIiOiIwMTllZTdiMC01MTVjLTc0NGItYTI5MC0zNTMwODk3ZjlhMWUiLCJ1c2UiOiJhY2Nlc3MifQ.tnquN56trsIRiF2Wq7p6WFZGOIISBFRLlV-Q2p0vXTIZ-yCoMaK_z8Kii5TF4JsO5XiSsMsed_Bax083Z1r-m2JmM7N09X3PqWTcQ0IQq-P9rrxaIQPkCWP5UYYaavvE98QSnsu1CJTbdnTjAZrKpih-Nbai0tAkZkJo-oXcHm45x4Wc7euoKx9DoxTNnF3FAyK3geO7WMqjCdnDvkMTsGR6gv5gXEvjTPV2wE1S0_znz_Z4dflElzVeTBHayHO7yZ8f4-VNzgOZWWXrKlPnEXQjH_c7gLUdqiqczuw1jW_NkXqVNebh8e3PyLHYc9uzix8ZQEqWI37tSeH-4wm-WQ",
+        "link": "https://stratechery.com/2026/anthropics-safety-superpower/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L2FudGhyb3BpY3Mtc2FmZXR5LXN1cGVycG93ZXIvIl19LCJleHAiOjE3ODUyMTQ0MTMsImlhdCI6MTc4MjYyMjQxMywiaXNzIjoiaHR0cHM6Ly9hcHAucGFzc3BvcnQub25saW5lL29hdXRoIiwic2NvcGUiOiJmZWVkOnJlYWQgYXJ0aWNsZTpyZWFkIGFzc2V0OnJlYWQgY2F0ZWdvcnk6cmVhZCBlbnRpdGxlbWVudHMgcG9kY2FzdCByc3MiLCJzdWIiOiIwMTllZTdiMC01MTVjLTc0NGItYTI5MC0zNTMwODk3ZjlhMWUiLCJ1c2UiOiJhY2Nlc3MifQ.UgKoP7aF6i9uHYP_wR8u1ilyK8eZn8MaWeOWrHXyFAcU1bAPGJ2bKrcQzcwIcyrmYKeIhjjiWwXjB_Ae2dsciYIh8jVKi_HEn0IOc1OaeXDfThQnRSQko3QEOyefpkxEoDS5eUDoKpLRRZFaZ6vMjXkMw_f1Fo4FCWKtvdyTkm9y2XACqL3JuXzxwZzHFrqTQCayHfxWVoZi0LQYlOV_2j35l0QSHVRmft6oH_H2d9jVVgiPquRkARXxB2h4U5fJGjZNXyfIT2ClSAjX5S3c6_X-BM99SVlr-snh5TEEmRNIqzYzrLCCBSg6mfD08QG3THMpNKx7sM4cWG9k19H7lA",
         "pubDate": "Mon, 15 Jun 2026 10:00:00 +0000"
       }
     ],
-    "music": []
+    "music": [
+      {
+        "channel": "Under the Radar",
+        "title": "Supergirl Is Better Than You’ve Been Led to Believe",
+        "desc": "Rarely has a film attracted so much negativity before anyone had actually seen it. But here we are with Supergirl.",
+        "link": "http://www.undertheradarmag.com/news/supergirl_is_better_than_youve_been_led_to_believe",
+        "pubDate": ""
+      }
+    ]
   },
   "lastUpdated": "6/28/2026"
 }
