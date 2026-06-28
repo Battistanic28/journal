@@ -19,10 +19,10 @@
     "slow-web": [
       {
         "channel": "Hackaday",
-        "title": "Hacking Routers Like It’s 2008",
-        "desc": "<div><img width=\"800\" height=\"533\" src=\"https://hackaday.com/wp-content/uploads/2024/01/DSCF3565.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2024/01/DSCF3565.jpg 6240w, https://hackaday.com/wp-content/uploads/2024/01/DSCF3565.jpg?resize=250,167 250w, https://hackaday.com/wp-content/uploads/2024/01/DSCF3565.jpg?resize=400,267 400w, https://hackaday.com/wp-content/uploads/2024/01/DSCF3565.jpg?resize=800,533 800w, https://hackaday.com/wp-content/uploads/2024/01/DSCF3565.jpg?resize=1536,1024 1536w, https://hackaday.com/wp-content/uploads/2024/01/DSCF3565.jpg?resize=2048,1365 2048w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"657329\" data-permalink=\"https://hackaday.com/2024/01/20/hardware-should-lead-software-right/dscf3565/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2024/01/DSCF3565.jpg\" data-orig-size=\"6240,4160\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;2&quot;,&quot;credit&quot;:&quot;Elliot Williams&quot;,&quot;camera&quot;:&quot;X-T4&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1705682514&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;35&quot;,&quot;iso&quot;:&quot;320&quot;,&quot;shutter_speed&quot;:&quot;0.019230769230769&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}\" data-image-title=\"DSCF3565\" data-image-description=\"&lt;p&gt;WRT54G in front of a Hackaday article celebrating it&amp;#8217;s 20th birthday.&lt;/p&gt;\n\" data-image-caption=\"&lt;p&gt;Spill some for the WRT&lt;/p&gt;\n\" data-large-file=\"https://hackaday.com/wp-content/uploads/2024/01/DSCF3565.jpg?w=800\" /></div>How long have we been hacking routers? To some of you who’ve been in the Hackaday audience for a while, the answer is “nearly forever”. In the early 2000s, they <a href=\"https://hackaday.com/2026/06/27/hacking-routers-like-its-2008/\" class=\"read-more\">&#8230;read more</a>",
-        "link": "https://hackaday.com/2026/06/27/hacking-routers-like-its-2008/",
-        "pubDate": "Sat, 27 Jun 2026 14:00:11 +0000"
+        "title": "A Standalone YouTube Streaming Rig",
+        "desc": "<div><img width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/06/pi4-streamer-featured.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2026/06/pi4-streamer-featured.jpg 800w, https://hackaday.com/wp-content/uploads/2026/06/pi4-streamer-featured.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2026/06/pi4-streamer-featured.jpg?resize=400,225 400w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"1118790\" data-permalink=\"https://hackaday.com/2026/06/27/a-standalone-youtube-streaming-rig/pi4-streamer-featured/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2026/06/pi4-streamer-featured.jpg\" data-orig-size=\"800,450\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;,&quot;alt&quot;:&quot;&quot;}\" data-image-title=\"pi4-streamer-featured\" data-image-description=\"\" data-image-caption=\"\" data-large-file=\"https://hackaday.com/wp-content/uploads/2026/06/pi4-streamer-featured.jpg?w=800\" /></div>YouTube streaming typically involves a camera with an HDMI output, a USB3 HDMI digitiser, and a suitably beefy PC to run it all. It&#8217;s quite a process, and for [Coreymillia], <a href=\"https://hackaday.com/2026/06/27/a-standalone-youtube-streaming-rig/\" class=\"read-more\">&#8230;read more</a>",
+        "link": "https://hackaday.com/2026/06/27/a-standalone-youtube-streaming-rig/",
+        "pubDate": "Sun, 28 Jun 2026 02:00:27 +0000"
       },
       {
         "channel": "Make: DIY Projects and Ideas for Makers",
@@ -40,10 +40,10 @@
       },
       {
         "channel": "CleanTechnica",
-        "title": "UK Sales of Electric Vehicles Just Overtook Petrol Cars for the First Time",
-        "desc": "<p>For the first time in the UK, more new electric vehicles (EVs) have been sold over a 12-month period than petrol cars, according to Carbon Brief analysis. The news comes amid a battle over the future of the UK’s “zero-emissions vehicle” (ZEV) mandate, which the car industry and some unions   ... [continued]</p>\n<p>The post <a href=\"https://cleantechnica.com/2026/06/26/uk-sales-of-electric-vehicles-just-overtook-petrol-cars-for-the-first-time/\">UK Sales of Electric Vehicles Just Overtook Petrol Cars for the First Time</a> appeared first on <a href=\"https://cleantechnica.com\">CleanTechnica</a>.</p>\n",
-        "link": "https://cleantechnica.com/2026/06/26/uk-sales-of-electric-vehicles-just-overtook-petrol-cars-for-the-first-time/",
-        "pubDate": "Sat, 27 Jun 2026 03:59:10 +0000"
+        "title": "Energy Storage Emerges As The Great Equalizer, Trump Or No Trump",
+        "desc": "<p>Quick quiz: Which high-level government clown in the Trump administration insists that &#8220;catastrophic failure&#8221; besets solar power plants every time the sun goes down? If you guessed Interior Secretary Doug Burgum, run right out and buy yourself a cigar. Meanwhile, the grownups are pressing ahead with new energy storage solutions   ... [continued]</p>\n<p>The post <a href=\"https://cleantechnica.com/2026/06/27/energy-storage-sodium-ion-salt-battery-us-coalition/\">Energy Storage Emerges As The Great Equalizer, Trump Or No Trump</a> appeared first on <a href=\"https://cleantechnica.com\">CleanTechnica</a>.</p>\n",
+        "link": "https://cleantechnica.com/2026/06/27/energy-storage-sodium-ion-salt-battery-us-coalition/",
+        "pubDate": "Sat, 27 Jun 2026 16:59:14 +0000"
       },
       {
         "channel": "From Coffee With Love",
@@ -65,19 +65,19 @@
         "channel": "Stratechery",
         "title": "Anthropic’s Safety Superpower",
         "desc": "Anthropic&#39;s belief in its own commitment to safety gives the company license to aggressively favor its business and even challenge the U.S. government.",
-        "link": "https://stratechery.com/2026/anthropics-safety-superpower/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L2FudGhyb3BpY3Mtc2FmZXR5LXN1cGVycG93ZXIvIl19LCJleHAiOjE3ODUxNjEyNjYsImlhdCI6MTc4MjU2OTI2NiwiaXNzIjoiaHR0cHM6Ly9hcHAucGFzc3BvcnQub25saW5lL29hdXRoIiwic2NvcGUiOiJmZWVkOnJlYWQgYXJ0aWNsZTpyZWFkIGFzc2V0OnJlYWQgY2F0ZWdvcnk6cmVhZCBlbnRpdGxlbWVudHMgcG9kY2FzdCByc3MiLCJzdWIiOiIwMTllZTdiMC01MTVjLTc0NGItYTI5MC0zNTMwODk3ZjlhMWUiLCJ1c2UiOiJhY2Nlc3MifQ.Blmxykm_CwJG17-BKsva6ZFt2Fvns8xM0HH5taTO6K-4W_leJKKmtY1sggqJgWeNUr7DpCJzRR2PWZRRmTEWbe71pL5LLeOOvIbPXPyk8Gwe586AFgtJTMgbMRXVM0yU0OeqssrAIH7KWDFweExbkeRKdHnOSq8NcAa8acuQJKGLJrZoNIblgnJ2_znO7AeYNYKkaOcA3hqu477rqsMiOoNBZoaVpvZG1r1a1BThU1Dge-0BLrC-4Vw6gD8DTpNLx1FlZ3zDJAjIm3g9vXTDNiPidGjfJjs4aOYXDFeu4-InklCz2ZHlshhzHw_0cuGSo1-vSbq7JvsFPRUgewkePA",
+        "link": "https://stratechery.com/2026/anthropics-safety-superpower/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L2FudGhyb3BpY3Mtc2FmZXR5LXN1cGVycG93ZXIvIl19LCJleHAiOjE3ODUyMTQ0MTMsImlhdCI6MTc4MjYyMjQxMywiaXNzIjoiaHR0cHM6Ly9hcHAucGFzc3BvcnQub25saW5lL29hdXRoIiwic2NvcGUiOiJmZWVkOnJlYWQgYXJ0aWNsZTpyZWFkIGFzc2V0OnJlYWQgY2F0ZWdvcnk6cmVhZCBlbnRpdGxlbWVudHMgcG9kY2FzdCByc3MiLCJzdWIiOiIwMTllZTdiMC01MTVjLTc0NGItYTI5MC0zNTMwODk3ZjlhMWUiLCJ1c2UiOiJhY2Nlc3MifQ.UgKoP7aF6i9uHYP_wR8u1ilyK8eZn8MaWeOWrHXyFAcU1bAPGJ2bKrcQzcwIcyrmYKeIhjjiWwXjB_Ae2dsciYIh8jVKi_HEn0IOc1OaeXDfThQnRSQko3QEOyefpkxEoDS5eUDoKpLRRZFaZ6vMjXkMw_f1Fo4FCWKtvdyTkm9y2XACqL3JuXzxwZzHFrqTQCayHfxWVoZi0LQYlOV_2j35l0QSHVRmft6oH_H2d9jVVgiPquRkARXxB2h4U5fJGjZNXyfIT2ClSAjX5S3c6_X-BM99SVlr-snh5TEEmRNIqzYzrLCCBSg6mfD08QG3THMpNKx7sM4cWG9k19H7lA",
         "pubDate": "Mon, 15 Jun 2026 10:00:00 +0000"
       }
     ],
     "music": [
       {
         "channel": "Under the Radar",
-        "title": "16 Best Songs of the Week: PJ Harvey, Phoebe Bridgers, Wild Pink, Swapmeet, and More",
-        "desc": "Welcome to the 24th Songs of the Week of 2026. This week Andy Von Pip, Caleb Campbell, Mark Moody, and Stephen Humphries helped me decide the list. We considered over 60 songs and narrowed it down to a Top 16. It was a blockbuster week for new songs.",
-        "link": "http://www.undertheradarmag.com/news/16_best_songs_of_the_week_pj_harvey_phoebe_bridgers_wild_pink_swapmeet_and",
+        "title": "Supergirl Is Better Than You’ve Been Led to Believe",
+        "desc": "Rarely has a film attracted so much negativity before anyone had actually seen it. But here we are with Supergirl.",
+        "link": "http://www.undertheradarmag.com/news/supergirl_is_better_than_youve_been_led_to_believe",
         "pubDate": ""
       }
     ]
   },
-  "lastUpdated": "6/27/2026"
+  "lastUpdated": "6/28/2026"
 }
