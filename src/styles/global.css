@@ -98,7 +98,7 @@ a {
 
 li a {
   text-decoration: underline dotted var(--color-gray) 2px;
-  text-underline-offset: 4px
+  text-underline-offset: 4px;
 }
 
 a:hover {
@@ -121,12 +121,20 @@ li::marker {
 
 summary::marker {
   content: "▶ ";
-  color: var(--color-pink)
+  color: var(--color-pink);
+}
+
+details summary:hover {
+  b {
+    background-color: var(--color-pink);
+    color: var(--theme-link-hover);
+    cursor: pointer;
+  }
 }
 
 details[open] summary::marker {
   content: "▼ ";
-  color: var(--color-pink)
+  color: var(--color-pink);
 }
 
 .contains-task-list {
