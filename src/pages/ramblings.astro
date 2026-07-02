@@ -1,0 +1,29 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { getRecentPosts } from "../../lib/getRecentPosts";
+
+const posts = await getRecentPosts();
+---
+
+<BaseLayout>
+  <section>
+    <a href="/">[◄] index</a>
+    <h1>ramblings</h1>
+    <ul>
+      {
+        posts.map((p) => (
+          <li>
+            <a href={`/ramblings/${p.data.slug}`}>{p.data.title}</a>
+            <span class="date"> -- [{p.data.published}]</span>
+          </li>
+        ))
+      }
+    </ul>
+  </section>
+</BaseLayout>
+
+<style>
+  .date {
+    color: var(--color-muted, var(--color-gray));
+  }
+</style>

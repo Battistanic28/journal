@@ -1,7 +1,7 @@
 ---
 import { getRecentPosts } from "../../lib/getRecentPosts";
 
-const posts = await getRecentPosts();
+const posts = await getRecentPosts(5);
 ---
 
 <section>
@@ -15,6 +15,7 @@ const posts = await getRecentPosts();
         </li>
       ))
     }
+    <li><a href="/ramblings">more</a></li>
   </ul>
 </section>
 
