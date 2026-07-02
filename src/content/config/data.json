@@ -3,10 +3,10 @@
     "substack": [
       {
         "channel": "Groundbreaker",
-        "title": "Peak Cheap: The AI Boom Isn't 2000, It's 2008",
-        "desc": "Anatomy of the GPU-collateralized earnings bubble and the coming credit unwind",
-        "link": "https://www.groundbrkr.com/p/peak-cheap-the-ai-boom-isnt-2000",
-        "pubDate": "Sun, 07 Jun 2026 21:04:13 GMT"
+        "title": "The Second Derivative: Why No One Understands the AI Boom",
+        "desc": "The market misremembers 2008. That same blind spot sits at the center of the AI boom.",
+        "link": "https://www.groundbrkr.com/p/the-second-derivative-why-no-one",
+        "pubDate": "Thu, 02 Jul 2026 11:02:44 GMT"
       },
       {
         "channel": "Good Tech Things",
@@ -19,10 +19,10 @@
     "slow-web": [
       {
         "channel": "Hackaday",
-        "title": "GPU-Accelerated Autorouter Handles Monstrous PCB Designs",
-        "desc": "<div><img width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/06/OrthoRouteKiCad-banner.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2026/06/OrthoRouteKiCad-banner.png 1834w, https://hackaday.com/wp-content/uploads/2026/06/OrthoRouteKiCad-banner.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2026/06/OrthoRouteKiCad-banner.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2026/06/OrthoRouteKiCad-banner.png?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2026/06/OrthoRouteKiCad-banner.png?resize=1536,864 1536w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"1120217\" data-permalink=\"https://hackaday.com/2026/07/01/gpu-accelerated-autorouter-handles-monstrous-pcb-designs/orthoroutekicad-banner/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2026/06/OrthoRouteKiCad-banner.png\" data-orig-size=\"1834,1032\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;,&quot;alt&quot;:&quot;&quot;}\" data-image-title=\"OrthoRouteKiCad-banner\" data-image-description=\"\" data-image-caption=\"\" data-large-file=\"https://hackaday.com/wp-content/uploads/2026/06/OrthoRouteKiCad-banner.png?w=800\" /></div>[Brian] had an absolute monster of a PCB with thousands of nets to be routed, the kind of design that stopped traditional routers in their tracks. It would take months <a href=\"https://hackaday.com/2026/07/01/gpu-accelerated-autorouter-handles-monstrous-pcb-designs/\" class=\"read-more\">&#8230;read more</a>",
-        "link": "https://hackaday.com/2026/07/01/gpu-accelerated-autorouter-handles-monstrous-pcb-designs/",
-        "pubDate": "Thu, 02 Jul 2026 02:00:56 +0000"
+        "title": "Know Your Food: Organic Production",
+        "desc": "<div><img width=\"800\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2026/07/Food.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2026/07/Food.jpg 3000w, https://hackaday.com/wp-content/uploads/2026/07/Food.jpg?resize=250,151 250w, https://hackaday.com/wp-content/uploads/2026/07/Food.jpg?resize=400,242 400w, https://hackaday.com/wp-content/uploads/2026/07/Food.jpg?resize=800,484 800w, https://hackaday.com/wp-content/uploads/2026/07/Food.jpg?resize=1536,929 1536w, https://hackaday.com/wp-content/uploads/2026/07/Food.jpg?resize=2048,1239 2048w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"1120554\" data-permalink=\"https://hackaday.com/2026/07/02/know-your-food-organic-production/food-4/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2026/07/Food.jpg\" data-orig-size=\"3000,1815\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;,&quot;alt&quot;:&quot;&quot;}\" data-image-title=\"Food\" data-image-description=\"\" data-image-caption=\"\" data-large-file=\"https://hackaday.com/wp-content/uploads/2026/07/Food.jpg?w=800\" /></div>A few weeks ago we published the first in a new series of articles, Know Your Food. It was born out of the realisation that most people know surprisingly little about <a href=\"https://hackaday.com/2026/07/02/know-your-food-organic-production/\" class=\"read-more\">&#8230;read more</a>",
+        "link": "https://hackaday.com/2026/07/02/know-your-food-organic-production/",
+        "pubDate": "Thu, 02 Jul 2026 14:00:08 +0000"
       },
       {
         "channel": "Make: DIY Projects and Ideas for Makers",
@@ -40,10 +40,10 @@
       },
       {
         "channel": "CleanTechnica",
-        "title": "Firmus Secures 600 MW Energy Supply Agreement in South Australia, Linked to 1.2 GW of New Renewable Generation &#038; Battery Storage",
-        "desc": "<p>Firmus today announced a landmark 12-year wholesale energy supply agreement with Gunvor Group for 600 MW of firm electricity to support the next phase of Project Southgate, its strategy to develop large-scale AI Factory campuses across regional Australia. Under the agreement, Gunvor will support the development of 1.2 GW of new renewable   ... [continued]</p>\n<p>The post <a href=\"https://cleantechnica.com/2026/07/01/firmus-secures-600-mw-energy-supply-agreement-in-south-australia-linked-to-1-2-gw-of-new-renewable-generation-battery-storage/\">Firmus Secures 600 MW Energy Supply Agreement in South Australia, Linked to 1.2 GW of New Renewable Generation &#038; Battery Storage</a> appeared first on <a href=\"https://cleantechnica.com\">CleanTechnica</a>.</p>\n",
-        "link": "https://cleantechnica.com/2026/07/01/firmus-secures-600-mw-energy-supply-agreement-in-south-australia-linked-to-1-2-gw-of-new-renewable-generation-battery-storage/",
-        "pubDate": "Thu, 02 Jul 2026 01:41:36 +0000"
+        "title": "New &#8220;Air&#8221; Battery Makes Larger Electric Aircraft Possible",
+        "desc": "<p>A new solid state, lithium-air battery is on its way to pilot-scale production, offering less weight and higher energy density for electric aircraft.</p>\n<p>The post <a href=\"https://cleantechnica.com/2026/07/02/electric-aircraft-new-battery-lithium-air-solid-state/\">New &#8220;Air&#8221; Battery Makes Larger Electric Aircraft Possible</a> appeared first on <a href=\"https://cleantechnica.com\">CleanTechnica</a>.</p>\n",
+        "link": "https://cleantechnica.com/2026/07/02/electric-aircraft-new-battery-lithium-air-solid-state/",
+        "pubDate": "Thu, 02 Jul 2026 12:17:48 +0000"
       },
       {
         "channel": "From Coffee With Love",
@@ -72,9 +72,9 @@
     "music": [
       {
         "channel": "Under the Radar",
-        "title": "Westside Cowboy Share Video for New Song “Pin Up Boys”",
-        "desc": "Manchester, England four&#45;piece Westside Cowboy are releasing their debut album, It Goes On, on August 21 via Island. Now they have shared its second single, “Pin Up Boys,” via a music video.",
-        "link": "http://www.undertheradarmag.com/news/westside_cowboy_share_video_for_new_song_pin_up_boys",
+        "title": "The City is Coming to Erase It All",
+        "desc": "Since 2006, Fink (frontman Finn Greenall and band members Tim Thornton and Guy Whittaker) have released nine full&#45;length albums, alongside multiple (excellent) live records, acoustic reinterpretations of full&#45;length albums, a single album diversion into full&#45;on blues, and some remix projects. The haul of Greenall’s discography brings about a career overview which would leave most artists highly satisfied and probably tempted to rest on their laurels.",
+        "link": "http://www.undertheradarmag.com/reviews/the_city_is_coming_to_erase_it_all_fink",
         "pubDate": ""
       }
     ]
