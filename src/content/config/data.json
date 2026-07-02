@@ -9,6 +9,34 @@
         "pubDate": "Thu, 02 Jul 2026 11:02:44 GMT"
       },
       {
+        "channel": "Power, Profit & Politics",
+        "title": "A Civilisation Worth Defending",
+        "desc": "On the death of the old world order and the crisis of liberalism",
+        "link": "https://eliasrutten.substack.com/p/a-civilisation-worth-defending",
+        "pubDate": "Sat, 27 Jun 2026 14:46:01 GMT"
+      },
+      {
+        "channel": "The Crucial Years",
+        "title": " \"You're paying the bills, buddy.\"",
+        "desc": "Princeton, BP, and a sad but extremely revealing chapter in the climate fight",
+        "link": "https://billmckibben.substack.com/p/youre-paying-the-bills-buddy",
+        "pubDate": "Mon, 29 Jun 2026 22:50:45 GMT"
+      },
+      {
+        "channel": "Bright Spots",
+        "title": "Renewables just had their best year ever",
+        "desc": "2025 was a record year for clean power but still falling short of what is needed",
+        "link": "https://janrosenow.substack.com/p/renewables-just-had-their-best-year",
+        "pubDate": "Sun, 28 Jun 2026 09:46:15 GMT"
+      },
+      {
+        "channel": "Electron Economics",
+        "title": "The renewables financing market isn’t constrained by capital. It’s constrained by MD-hours.",
+        "desc": "What MUFG, JPMorgan, US Bank and Rabobank actually said at CLEANPOWER 2026 &#8212; and why the complexity narrative is the wrong frame.",
+        "link": "https://electroneconomics.substack.com/p/the-renewables-financing-market-isnt",
+        "pubDate": "Tue, 30 Jun 2026 19:07:07 GMT"
+      },
+      {
         "channel": "Good Tech Things",
         "title": "Paradox, Inc",
         "desc": "exciting book news!",
@@ -51,6 +79,13 @@
         "desc": "A Long-Time Favourite Arrives in Dubai At the end of May, I visited the newly opened La Marzocco showroom in Dubai. If you have followed my blog for a while, you will know that La Marzocco is probably my favourite Italian espresso machine maker. In fact, when I moved to Cape Town in 2010 to &#8230; <p class=\"link-more\"><a href=\"https://fromcoffeewithlove.com/2026/06/30/a-coffee-geeks-day-at-la-marzocco-in-dubai/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Coffee Geek&#8217;s Day at La Marzocco in&#160;Dubai\"</span></a></p>",
         "link": "https://fromcoffeewithlove.com/2026/06/30/a-coffee-geeks-day-at-la-marzocco-in-dubai/",
         "pubDate": "Tue, 30 Jun 2026 19:02:25 +0000"
+      },
+      {
+        "channel": "Random Nerd Tutorials",
+        "title": "ESP32 NTP Digital Clock with Timezone and Daylight Saving Time",
+        "desc": "<p>In this tutorial, you’ll create an ESP32 internet-connected digital clock that you can adjust for your timezone, and that automatically handles daylight saving time. The ESP32 gets the current time ... </p>\n<p class=\"read-more-container\"><a title=\"ESP32 NTP Digital Clock with Timezone and Daylight Saving Time\" class=\"read-more button\" href=\"https://randomnerdtutorials.com/esp32-ntp-digital-clock-timezone/#more-189779\" aria-label=\"Read more about ESP32 NTP Digital Clock with Timezone and Daylight Saving Time\">CONTINUE READING »</a></p>\nThe post <a href=\"https://randomnerdtutorials.com/esp32-ntp-digital-clock-timezone/\">ESP32 NTP Digital Clock with Timezone and Daylight Saving Time</a> first appeared on <a href=\"https://randomnerdtutorials.com\">Random Nerd Tutorials</a>.",
+        "link": "https://randomnerdtutorials.com/esp32-ntp-digital-clock-timezone/",
+        "pubDate": "Thu, 02 Jul 2026 12:03:51 +0000"
       }
     ],
     "podcasts": [
@@ -62,11 +97,11 @@
         "pubDate": "Wed, 01 Jul 2026 16:02:05 GMT"
       },
       {
-        "channel": "Stratechery",
-        "title": "Anthropic’s Safety Superpower",
-        "desc": "Anthropic&#39;s belief in its own commitment to safety gives the company license to aggressively favor its business and even challenge the U.S. government.",
-        "link": "https://stratechery.com/2026/anthropics-safety-superpower/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L2FudGhyb3BpY3Mtc2FmZXR5LXN1cGVycG93ZXIvIl19LCJleHAiOjE3ODU1MTA3ODYsImlhdCI6MTc4MjkxODc4NiwiaXNzIjoiaHR0cHM6Ly9hcHAucGFzc3BvcnQub25saW5lL29hdXRoIiwic2NvcGUiOiJmZWVkOnJlYWQgYXJ0aWNsZTpyZWFkIGFzc2V0OnJlYWQgY2F0ZWdvcnk6cmVhZCBlbnRpdGxlbWVudHMgcG9kY2FzdCByc3MiLCJzdWIiOiIwMTllZTdiMC01MTVjLTc0NGItYTI5MC0zNTMwODk3ZjlhMWUiLCJ1c2UiOiJhY2Nlc3MifQ.YoL_2Q4GEVNYD9qPenEw3hDZApOo7I1_rICp49-Ha7MBhLg725qI15wC-ZV0nXof7SRXrbMnqW1eK318H0lECzgqdWHYc_WkXhAR8L2fQ1b8o_8d1BtSqE0UVBH2hmymPSgK5SvhXYlMUDteUrPd8__GH6MpNHfWcjyrOAXCdH2J6tZgpw2KL20ghN89fUFErkaSXMGuMvH-Zu2z6hq7g476OInODmyPtk4VXROx-DxBonNIlfFB-FKLHyv6K4pVKlktvyre05JJgPHfHOkK3RaLQa2kV4AXE_rvAoCx5vDzMLCtbqgA9Qi0a1PDrTTjoV3V92xoV5eFXQgcsw3BsA",
-        "pubDate": "Mon, 15 Jun 2026 10:00:00 +0000"
+        "channel": "Latitude Media",
+        "title": "The new reality for data centers: No easy answers",
+        "desc": "<p>Two data center developers on powered land, community opposition, and finding energy.</p>\n<p>The post <a href=\"https://www.latitudemedia.com/news/open-circuit-the-new-reality-for-data-centers-no-easy-answers/\">The new reality for data centers: No easy answers</a> appeared first on <a href=\"https://www.latitudemedia.com\">Latitude Media</a>.</p>\n",
+        "link": "https://www.latitudemedia.com/news/open-circuit-the-new-reality-for-data-centers-no-easy-answers/",
+        "pubDate": "Thu, 02 Jul 2026 10:15:00 +0000"
       }
     ],
     "music": [
