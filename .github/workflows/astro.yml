@@ -27,6 +27,8 @@ jobs:
       - name: Build with Astro
         # Auto-detects Bun from bun.lock and runs `astro build`
         uses: withastro/action@v3
+        with:
+          node-version: 24
 
   deploy:
     needs: build
