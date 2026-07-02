@@ -28,22 +28,15 @@
         "desc": "2025 was a record year for clean power but still falling short of what is needed",
         "link": "https://janrosenow.substack.com/p/renewables-just-had-their-best-year",
         "pubDate": "Sun, 28 Jun 2026 09:46:15 GMT"
-      },
-      {
-        "channel": "Electron Economics",
-        "title": "The renewables financing market isn’t constrained by capital. It’s constrained by MD-hours.",
-        "desc": "What MUFG, JPMorgan, US Bank and Rabobank actually said at CLEANPOWER 2026 &#8212; and why the complexity narrative is the wrong frame.",
-        "link": "https://electroneconomics.substack.com/p/the-renewables-financing-market-isnt",
-        "pubDate": "Tue, 30 Jun 2026 19:07:07 GMT"
       }
     ],
     "slow-web": [
       {
         "channel": "Hackaday",
-        "title": "Know Your Food: Organic Production",
-        "desc": "<div><img width=\"800\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2026/07/Food.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2026/07/Food.jpg 3000w, https://hackaday.com/wp-content/uploads/2026/07/Food.jpg?resize=250,151 250w, https://hackaday.com/wp-content/uploads/2026/07/Food.jpg?resize=400,242 400w, https://hackaday.com/wp-content/uploads/2026/07/Food.jpg?resize=800,484 800w, https://hackaday.com/wp-content/uploads/2026/07/Food.jpg?resize=1536,929 1536w, https://hackaday.com/wp-content/uploads/2026/07/Food.jpg?resize=2048,1239 2048w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"1120554\" data-permalink=\"https://hackaday.com/2026/07/02/know-your-food-organic-production/food-4/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2026/07/Food.jpg\" data-orig-size=\"3000,1815\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;,&quot;alt&quot;:&quot;&quot;}\" data-image-title=\"Food\" data-image-description=\"\" data-image-caption=\"\" data-large-file=\"https://hackaday.com/wp-content/uploads/2026/07/Food.jpg?w=800\" /></div>A few weeks ago we published the first in a new series of articles, Know Your Food. It was born out of the realisation that most people know surprisingly little about <a href=\"https://hackaday.com/2026/07/02/know-your-food-organic-production/\" class=\"read-more\">&#8230;read more</a>",
-        "link": "https://hackaday.com/2026/07/02/know-your-food-organic-production/",
-        "pubDate": "Thu, 02 Jul 2026 14:00:08 +0000"
+        "title": "An eInk, ESP32-based Game Boy",
+        "desc": "<div><img width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/06/e-ink_gameboy_feat.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2026/06/e-ink_gameboy_feat.jpg 854w, https://hackaday.com/wp-content/uploads/2026/06/e-ink_gameboy_feat.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2026/06/e-ink_gameboy_feat.jpg?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2026/06/e-ink_gameboy_feat.jpg?resize=800,450 800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"1120404\" data-permalink=\"https://hackaday.com/2026/07/02/an-eink-esp32-based-gameboy/e-ink_gameboy_feat/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2026/06/e-ink_gameboy_feat.jpg\" data-orig-size=\"854,480\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;,&quot;alt&quot;:&quot;&quot;}\" data-image-title=\"e-ink_gameboy_feat\" data-image-description=\"\" data-image-caption=\"\" data-large-file=\"https://hackaday.com/wp-content/uploads/2026/06/e-ink_gameboy_feat.jpg?w=800\" /></div>This is one of those projects that was both inspired and made possible by the absolute embarrassment of dev boards available to the modern hacker. In this case, the dev <a href=\"https://hackaday.com/2026/07/02/an-eink-esp32-based-gameboy/\" class=\"read-more\">&#8230;read more</a>",
+        "link": "https://hackaday.com/2026/07/02/an-eink-esp32-based-gameboy/",
+        "pubDate": "Thu, 02 Jul 2026 18:30:39 +0000"
       },
       {
         "channel": "Make: DIY Projects and Ideas for Makers",
@@ -61,10 +54,10 @@
       },
       {
         "channel": "CleanTechnica",
-        "title": "New &#8220;Air&#8221; Battery Makes Larger Electric Aircraft Possible",
-        "desc": "<p>A new solid state, lithium-air battery is on its way to pilot-scale production, offering less weight and higher energy density for electric aircraft.</p>\n<p>The post <a href=\"https://cleantechnica.com/2026/07/02/electric-aircraft-new-battery-lithium-air-solid-state/\">New &#8220;Air&#8221; Battery Makes Larger Electric Aircraft Possible</a> appeared first on <a href=\"https://cleantechnica.com\">CleanTechnica</a>.</p>\n",
-        "link": "https://cleantechnica.com/2026/07/02/electric-aircraft-new-battery-lithium-air-solid-state/",
-        "pubDate": "Thu, 02 Jul 2026 12:17:48 +0000"
+        "title": "Energy Forum Signals Asia&#8217;s Clean Energy Transition Is Entering A New, High-Stakes Phase",
+        "desc": "<p>The Asia Clean Energy Forum (ACEF) 2026 in Manila arrived at a moment when the region&#8217;s energy systems are under unprecedented pressure. As geopolitical tensions continue to disrupt global fuel markets, artificial intelligence data centers are driving electricity demand to historic highs, and more than 400 million people across Asia   ... [continued]</p>\n<p>The post <a href=\"https://cleantechnica.com/2026/07/02/energy-forum-signals-asias-clean-energy-transition-is-entering-a-new-high-stakes-phase/\">Energy Forum Signals Asia&#8217;s Clean Energy Transition Is Entering A New, High-Stakes Phase</a> appeared first on <a href=\"https://cleantechnica.com\">CleanTechnica</a>.</p>\n",
+        "link": "https://cleantechnica.com/2026/07/02/energy-forum-signals-asias-clean-energy-transition-is-entering-a-new-high-stakes-phase/",
+        "pubDate": "Thu, 02 Jul 2026 18:40:28 +0000"
       },
       {
         "channel": "From Coffee With Love",
@@ -100,9 +93,9 @@
     "music": [
       {
         "channel": "Under the Radar",
-        "title": "The City is Coming to Erase It All",
-        "desc": "Since 2006, Fink (frontman Finn Greenall and band members Tim Thornton and Guy Whittaker) have released nine full&#45;length albums, alongside multiple (excellent) live records, acoustic reinterpretations of full&#45;length albums, a single album diversion into full&#45;on blues, and some remix projects. The haul of Greenall’s discography brings about a career overview which would leave most artists highly satisfied and probably tempted to rest on their laurels.",
-        "link": "http://www.undertheradarmag.com/reviews/the_city_is_coming_to_erase_it_all_fink",
+        "title": "Wolf Alice Share New Track &#8220;Gospel Oak&#8221; Ahead of Finsbury Park Homecoming Show",
+        "desc": "Wolf Alice share “Gospel Oak”, the first of three unreleased tracks from The Clearing sessions, ahead of their Finsbury Park show this Sunday.",
+        "link": "http://www.undertheradarmag.com/news/wolf_alice_share_new_track_gospel_oak_ahead_of_finsbury_park_homecoming_sho",
         "pubDate": ""
       }
     ]
