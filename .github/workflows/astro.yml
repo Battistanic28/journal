@@ -1,9 +1,9 @@
 name: Deploy to GitHub Pages
 
 on:
-  # schedule:
-  #   # 8:25 AM and 8:25 PM MDT (14:25 and 02:25 UTC)
-  #   - cron: '25 2,14 * * *'
+  schedule:
+    # 8:25 AM and 8:25 PM MDT (14:25 and 02:25 UTC)
+    - cron: '25 2,14 * * *'
 
   # Trigger the workflow on push to `main` branch
   push:

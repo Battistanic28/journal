@@ -25,7 +25,16 @@ export const getFeed = async (): Promise<FeedData> => {
     sources.map(async (source) => {
       const items = await Promise.all(
         feed[source].map(async (url) => {
-          const res = await fetch(url);
+          const res = await fetch(url, {
+            headers: {
+              "User-Agent":
+                "Mozilla/5.0 (compatible; MyAstroSite/1.0; +https://mysite.com)",
+              Accept:
+                "application/rss+xml, application/atom+xml, application/xml, text/xml",
+            },
+            signal: AbortSignal.timeout(15_000),
+          });
+
           const data = await res.text();
           const parser = new XMLParser();
           const xmlDoc = parser.parse(data);
@@ -64,4 +73,3 @@ export const getFeed = async (): Promise<FeedData> => {
 
   return { data: data, lastUpdated: date } as FeedData;
 };
-
