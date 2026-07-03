@@ -1,14 +1,17 @@
 name: Deploy to GitHub Pages
 
 on:
-  # Trigger the workflow every time you push to the `main` branch
-  # Using a different branch name? Replace `main` with your branch’s name
+  schedule:
+    # Runs at minute 25, every 12 hours (e.g., 00:25 and 12:25 UTC)
+    - cron: '25 */12 * * *'
+    
+  # Trigger the workflow on push to `main` branch
   push:
     branches: [main]
-  # Allows you to run this workflow manually from the Actions tab on GitHub.
+
+  # run this workflow manually from the Actions tab on GitHub.
   workflow_dispatch:
 
-# Allow this job to clone the repo and create a page deployment
 permissions:
   contents: read
   pages: write
