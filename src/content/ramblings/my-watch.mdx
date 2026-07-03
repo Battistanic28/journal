@@ -4,17 +4,12 @@ published: 6/28/2026
 slug: my-watch
 ---
 
-import { getLastModified } from "../../../lib/getLastModified.ts";
-export const lastModified = getLastModified(import.meta.url);
-
 [[◄] index](/)
 
-<time datetime={lastModified.toISOString()}>
   <i>
-    Last updated:{" "}{lastModified.toLocaleDateString("en-US", { dateStyle: "long" })}
+    Published: {frontmatter.published}
   </i>
-</time>
-
+  
 # {frontmatter.title}
 
 <br />

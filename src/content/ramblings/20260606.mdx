@@ -4,16 +4,11 @@ published: "06/06/2026"
 slug: a-case-for-optimism
 ---
 
-import { getLastModified } from "../../../lib/getLastModified";
-export const lastModified = getLastModified(import.meta.url);
-
 [[◄] index](/)
 
-<time datetime={lastModified.toISOString()}>
   <i>
-    Last updated: {lastModified.toLocaleDateString("en-US", { dateStyle: "long" })}
+    Published: {frontmatter.published}
   </i>
-</time>
 
 # A case for optimism
 

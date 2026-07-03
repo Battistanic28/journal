@@ -4,16 +4,11 @@ published: "06/21/2026"
 slug: writing-again
 ---
 
-import { getLastModified } from "../../../lib/getLastModified";
-export const lastModified = getLastModified(import.meta.url);
-
 [[◄] index](/)
 
-<time datetime={lastModified.toISOString()}>
   <i>
-    Published: {lastModified.toLocaleDateString("en-US", { dateStyle: "long" })}
+    Published: {frontmatter.published}
   </i>
-</time>
 
 # Writing again...
 

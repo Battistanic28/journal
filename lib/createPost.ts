@@ -28,19 +28,11 @@ published: ${date.toLocaleDateString()}
 slug: ${slug}
 ---
 
-import { getLastModified } from "${path.relative(
-    path.join(process.cwd(), "src", "content", "ramblings"),
-    path.join(import.meta.dirname, "getLastModified.ts"),
-)}";
-export const lastModified = getLastModified(import.meta.url);
-
 [[◄] index](/)
 
-<time datetime={lastModified.toISOString()}>
-<i>
-    Last updated: {lastModified.toLocaleDateString("en-US", { dateStyle: "long" })}
-</i>
-</time>
+  <i>
+    Published: {frontmatter.published}
+  </i>
 
 # {frontmatter.title}
 `;
