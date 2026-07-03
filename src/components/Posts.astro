@@ -1,7 +1,9 @@
 ---
 import { getRecentPosts } from "../../lib/getRecentPosts";
+import { postDisplayCount } from "../content/config/config.json";
 
-const posts = await getRecentPosts(5);
+const allPosts = await getRecentPosts();
+const posts = allPosts.slice(0, postDisplayCount)
 ---
 
 <section>
@@ -15,7 +17,13 @@ const posts = await getRecentPosts(5);
         </li>
       ))
     }
-    <li><a href="/ramblings">more</a></li>
+    {
+      allPosts.length > postDisplayCount && (
+        <li>
+          <a href="/ramblings">more</a>
+        </li>
+      )
+    }
   </ul>
 </section>
 
