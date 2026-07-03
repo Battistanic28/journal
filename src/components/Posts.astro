@@ -1,8 +1,8 @@
 ---
-import { getRecentPosts } from "../../lib/getRecentPosts";
+import { getPosts } from "../../lib/getPosts";
 import { postDisplayCount } from "../content/config/config.json";
 
-const allPosts = await getRecentPosts();
+const allPosts = await getPosts();
 const posts = allPosts.slice(0, postDisplayCount)
 ---
 

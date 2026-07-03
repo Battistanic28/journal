@@ -17,7 +17,6 @@ type FeedData = {
 
 /*
 Fetch title, descriotion and link for most recent article for each newsletter
-If pubdate is greater than 3 days old, do not fetch/display
 */
 export const getFeed = async (): Promise<FeedData> => {
   const sources = Object.keys(feed) as Array<keyof typeof feed>;
@@ -66,15 +65,3 @@ export const getFeed = async (): Promise<FeedData> => {
   return { data: data, lastUpdated: date.toLocaleDateString() } as FeedData;
 };
 
-const writeFeed = async (data: FeedData) => {
-  const jsonString = JSON.stringify(data, null, 2);
-  try {
-    fs.writeFileSync("src/content/config/data.json", jsonString);
-    console.log("Feed data updated successfully.");
-  } catch (err) {
-    console.error("Error writing file:", err);
-  }
-};
-
-const data = await getFeed();
-await writeFeed(data);
