@@ -12,7 +12,7 @@ interface ContentItem {
 
 type FeedData = {
   data: Record<string, ContentItem[]>;
-  lastUpdated: string;
+  lastUpdated: Date;
 };
 
 /*
@@ -62,6 +62,6 @@ export const getFeed = async (): Promise<FeedData> => {
   const data = Object.fromEntries(entries);
   const date = new Date();
 
-  return { data: data, lastUpdated: date.toLocaleDateString() } as FeedData;
+  return { data: data, lastUpdated: date } as FeedData;
 };
 

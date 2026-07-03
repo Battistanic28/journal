@@ -42,5 +42,5 @@ const sources = Object.keys(feed);
     })
   }
   <br/>
-  <i>last updated: {lastUpdated}</i>
+  <i>last updated: {lastUpdated.toLocaleDateString('en-US', { timeZone: 'America/Denver' })}</i>
 </section>
