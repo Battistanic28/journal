@@ -60,14 +60,6 @@ body {
   }
 }
 
-/* @media (prefers-color-scheme: light) {
-  :root {
-    --theme-bg: var(--color-black-light);
-    --theme-text: var(--color-white-light);
-    --theme-code-block: var(--color-gray);
-  }
-} */
-
 h1 {
   color: var(--color-pink);
 }
