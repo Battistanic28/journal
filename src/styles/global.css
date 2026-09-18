@@ -23,13 +23,14 @@
 }
 
 :root {
-  --theme-bg: var(--color-gray-light);
-  --theme-text: var(--color-black-light);
+  --theme-bg: var(--color-black-light);
+  --theme-text: var(--color-white-light);
   --theme-sub-text: var(--color-gray);
   --theme-link: var(--color-pink);
   --theme-link-hover: var(--color-black-light);
-  --theme-code-block: var(--color-gray-medium);
+  --theme-code-block: var(--color-gray);
 
+  color-scheme: dark;
   color: var(--theme-text);
 
   font-family: "IBM Plex Mono", monospace;
@@ -59,13 +60,13 @@ body {
   }
 }
 
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: light) {
   :root {
     --theme-bg: var(--color-black-light);
     --theme-text: var(--color-white-light);
     --theme-code-block: var(--color-gray);
   }
-}
+} */
 
 h1 {
   color: var(--color-pink);
