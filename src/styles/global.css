@@ -30,7 +30,6 @@
   --theme-link-hover: var(--color-black-light);
   --theme-code-block: var(--color-gray-medium);
 
-  color-scheme: light dark;
   color: var(--theme-text);
 
   font-family: "IBM Plex Mono", monospace;
